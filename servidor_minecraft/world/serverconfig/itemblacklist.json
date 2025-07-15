@@ -1,0 +1,582 @@
+{
+  "items": [
+    {
+      "item_predicate": {
+        "items": [
+          "alexsmobs:centipede_leg"
+        ],
+        "nbt": "{}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "alexsmobs:unsettling_kimono"
+        ],
+        "nbt": "{Damage:0}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "mutantmonsters:hulk_hammer"
+        ],
+        "nbt": "{Damage:0}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "the_deep_void:stalker_scythe_claw"
+        ],
+        "nbt": "{Damage:0}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "the_deep_void:void_matter"
+        ],
+        "nbt": "{}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "the_deep_void:void_core"
+        ],
+        "nbt": "{}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "the_deep_void:rotten_dart"
+        ],
+        "nbt": "{}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "the_deep_void:stalker_treat"
+        ],
+        "nbt": "{}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "the_deep_void:void_dagger"
+        ],
+        "nbt": "{Damage:0}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "the_deep_void:void_pendant"
+        ],
+        "nbt": "{Damage:0}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "the_deep_void:licker_hook"
+        ],
+        "nbt": "{Damage:0}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "the_deep_void:bloody_tongue"
+        ],
+        "nbt": "{}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "the_deep_void:rotten_tongue_hook"
+        ],
+        "nbt": "{Damage:0}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "the_deep_void:void_lens"
+        ],
+        "nbt": "{}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "the_deep_void:grim_scythe"
+        ],
+        "nbt": "{Damage:0}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "the_deep_void:void_filled_sponge"
+        ],
+        "nbt": "{}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "the_deep_void:rotten_sickle"
+        ],
+        "nbt": "{Damage:0}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "the_deep_void:voidrium_boots"
+        ],
+        "nbt": "{Damage:0}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "the_deep_void:voidrium_chestplate"
+        ],
+        "nbt": "{Damage:0}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "the_deep_void:voidrium_leggings"
+        ],
+        "nbt": "{Damage:0}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "the_deep_void:voidrium_helmet"
+        ],
+        "nbt": "{Damage:0}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "the_deep_void:grim_rotten_bone_boots"
+        ],
+        "nbt": "{Damage:0}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "the_deep_void:grim_rotten_bone_chestplate"
+        ],
+        "nbt": "{Damage:0}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "the_deep_void:grim_rotten_bone_leggings"
+        ],
+        "nbt": "{Damage:0}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "the_deep_void:grim_rotten_bone_helmet"
+        ],
+        "nbt": "{Damage:0}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "the_deep_void:forbidden_tome"
+        ],
+        "nbt": "{Damage:0}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "create_netherless:netherite_fragment"
+        ],
+        "nbt": "{}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "alexsmobs:transmutation_table"
+        ],
+        "nbt": "{}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "alexsmobs:shattered_dimensional_carver"
+        ],
+        "nbt": "{Damage:0}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "alexsmobs:dimensional_carver"
+        ],
+        "nbt": "{Damage:0}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "alexsmobs:shield_of_the_deep"
+        ],
+        "nbt": "{Damage:0}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "alexsmobs:stink_ray"
+        ],
+        "nbt": "{Damage:0}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "minecraft:wither_skeleton_skull"
+        ],
+        "nbt": "{}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "minecraft:phantom_membrane"
+        ],
+        "nbt": "{}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "the_deep_void:voidrium_ore"
+        ],
+        "nbt": "{}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "minecraft:ender_eye"
+        ],
+        "nbt": "{}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "the_deep_void:voidrium_gem"
+        ],
+        "nbt": "{Damage:0}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "immersive_aircraft:gyrodyne"
+        ],
+        "nbt": "{}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "herbalbrews:witch_hat"
+        ],
+        "nbt": "{Damage:0}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "herbalbrews:top_hat"
+        ],
+        "nbt": "{Damage:0}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "herbalbrews:herbalbrews_banner"
+        ],
+        "nbt": "{}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "vc_gliders:copper_upgrade"
+        ],
+        "nbt": "{}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "vc_gliders:nether_upgrade"
+        ],
+        "nbt": "{}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "vc_gliders:paraglider_diamond"
+        ],
+        "nbt": "{Damage:0}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "vc_gliders:paraglider_gold"
+        ],
+        "nbt": "{Damage:0}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "vc_gliders:paraglider_iron"
+        ],
+        "nbt": "{Damage:0}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "vc_gliders:paraglider_netherite"
+        ],
+        "nbt": "{Damage:0}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "vc_gliders:reinforced_paper_diamond"
+        ],
+        "nbt": "{}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "vc_gliders:reinforced_paper_gold"
+        ],
+        "nbt": "{}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "vc_gliders:reinforced_paper_iron"
+        ],
+        "nbt": "{}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "vc_gliders:reinforced_paper_netherite"
+        ],
+        "nbt": "{}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "minecraft:ender_pearl"
+        ],
+        "nbt": "{}"
+      },
+      "groups": [
+        "default"
+      ]
+    }
+  ],
+  "groups": [
+    {
+      "name": "default",
+      "properties": {}
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+	id: "e2fb7a3a-51c5-3c5d-8d8d-df4e1427bb07"
+	type: "player"
+	player_name: "Andrew_50G"
+	ranks: {
+		e2fb7a3a-51c5-3c5d-8d8d-df4e1427bb07: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Andrew_50G"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFE759"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
