@@ -1,0 +1,17 @@
+{
+	id: "d5498e28-e9b3-377b-ab78-7a87ed7b4698"
+	type: "player"
+	player_name: "N30N"
+	ranks: {
+		d5498e28-e9b3-377b-ab78-7a87ed7b4698: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "N30N"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59C1"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

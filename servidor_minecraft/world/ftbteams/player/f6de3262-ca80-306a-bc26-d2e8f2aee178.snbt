@@ -1,0 +1,17 @@
+{
+	id: "f6de3262-ca80-306a-bc26-d2e8f2aee178"
+	type: "player"
+	player_name: "inquisitor1102"
+	ranks: {
+		f6de3262-ca80-306a-bc26-d2e8f2aee178: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "inquisitor1102"
+		"ftbteams:description": ""
+		"ftbteams:color": "#9259FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

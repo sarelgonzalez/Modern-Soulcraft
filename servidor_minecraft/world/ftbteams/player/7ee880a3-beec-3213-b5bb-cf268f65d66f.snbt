@@ -1,0 +1,17 @@
+{
+	id: "7ee880a3-beec-3213-b5bb-cf268f65d66f"
+	type: "player"
+	player_name: "CaZaFurras619"
+	ranks: {
+		7ee880a3-beec-3213-b5bb-cf268f65d66f: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "CaZaFurras619"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59F4FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
