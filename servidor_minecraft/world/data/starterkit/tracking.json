@@ -1,9 +1,11 @@
 {
   "singleplayer": {},
   "multiplayer": {
+    "47e870d9-21be-3a14-a766-12dca6797464": true,
     "f6de3262-ca80-306a-bc26-d2e8f2aee178": true,
     "d5498e28-e9b3-377b-ab78-7a87ed7b4698": true,
     "e2fb7a3a-51c5-3c5d-8d8d-df4e1427bb07": true,
+    "ae9115be-ccc4-3759-8703-b5a55177e635": true,
     "7ee880a3-beec-3213-b5bb-cf268f65d66f": true
   }
 }

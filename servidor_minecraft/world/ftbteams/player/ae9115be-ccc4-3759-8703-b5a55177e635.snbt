@@ -1,0 +1,17 @@
+{
+	id: "ae9115be-ccc4-3759-8703-b5a55177e635"
+	type: "player"
+	player_name: "N30NP1X3l"
+	ranks: {
+		ae9115be-ccc4-3759-8703-b5a55177e635: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "N30NP1X3l"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5EFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

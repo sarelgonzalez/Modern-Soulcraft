@@ -1,0 +1,17 @@
+{
+	id: "47e870d9-21be-3a14-a766-12dca6797464"
+	type: "player"
+	player_name: "DZBIZARRE"
+	ranks: {
+		47e870d9-21be-3a14-a766-12dca6797464: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "DZBIZARRE"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF6759"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
