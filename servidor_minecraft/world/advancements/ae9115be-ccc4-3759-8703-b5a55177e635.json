@@ -325,6 +325,12 @@
     },
     "done": true
   },
+  "bbb:recipes/acacia_lantern": {
+    "criteria": {
+      "has_torch": "2025-07-18 05:11:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-07-18 04:20:41 +0000"
@@ -1123,6 +1129,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/chandelier": {
+    "criteria": {
+      "has_torch": "2025-07-18 05:11:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_candle": {
     "criteria": {
       "has_orange_dye": "2025-07-18 03:17:00 +0000"
@@ -1384,6 +1396,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-07-18 03:59:43 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/mangrove_lantern": {
+    "criteria": {
+      "has_torch": "2025-07-18 05:11:22 +0000"
     },
     "done": true
   },
@@ -1843,6 +1861,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/torch_from_chandelier": {
+    "criteria": {
+      "has_torch": "2025-07-18 05:11:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-07-18 04:18:50 +0000"
@@ -2095,6 +2119,12 @@
     },
     "done": true
   },
+  "bbb:recipes/bamboo_lantern": {
+    "criteria": {
+      "has_torch": "2025-07-18 05:11:22 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/orange_toilet": {
     "criteria": {
       "has_dye": "2025-07-18 03:17:00 +0000"
@@ -2104,6 +2134,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-07-18 04:31:45 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/cherry_lantern": {
+    "criteria": {
+      "has_torch": "2025-07-18 05:11:22 +0000"
     },
     "done": true
   },
@@ -2164,6 +2200,12 @@
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-07-18 04:18:50 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/dark_oak_lantern": {
+    "criteria": {
+      "has_torch": "2025-07-18 05:11:22 +0000"
     },
     "done": true
   },
@@ -2308,6 +2350,12 @@
   "handcrafted:recipes/misc/salmon_trophy": {
     "criteria": {
       "has_salmon_trophy": "2025-07-18 03:16:57 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/crimson_lantern": {
+    "criteria": {
+      "has_torch": "2025-07-18 05:11:22 +0000"
     },
     "done": true
   },
@@ -2623,6 +2671,12 @@
     },
     "done": true
   },
+  "bbb:recipes/spruce_lantern": {
+    "criteria": {
+      "has_torch": "2025-07-18 05:11:22 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/copper_trapdoor": {
     "criteria": {
       "has_item": "2025-07-18 04:20:27 +0000"
@@ -2827,6 +2881,12 @@
     },
     "done": true
   },
+  "bbb:recipes/jungle_lantern": {
+    "criteria": {
+      "has_torch": "2025-07-18 05:11:22 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/gray_trampoline": {
     "criteria": {
       "has_string": "2025-07-18 03:08:54 +0000"
@@ -2986,6 +3046,12 @@
   "createdeco:recipes/decorations/iron_support_wedge_from_stonecutting": {
     "criteria": {
       "has_item": "2025-07-18 04:18:50 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/warped_lantern": {
+    "criteria": {
+      "has_torch": "2025-07-18 05:11:22 +0000"
     },
     "done": true
   },
@@ -3229,6 +3295,12 @@
     },
     "done": true
   },
+  "bbb:recipes/birch_lantern": {
+    "criteria": {
+      "has_torch": "2025-07-18 05:11:22 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/pufferfish_trophy": {
     "criteria": {
       "has_pufferfish_trophy": "2025-07-18 03:16:57 +0000"
@@ -3340,6 +3412,12 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_stool": {
     "criteria": {
       "has_planks": "2025-07-18 03:16:57 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/oak_lantern": {
+    "criteria": {
+      "has_torch": "2025-07-18 05:11:22 +0000"
     },
     "done": true
   },

@@ -4860,3 +4860,117 @@ java.lang.RuntimeException: Attempted to load class com/keerdm/binocularsmod/cli
 [18Jul2025 05:09:38.578] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [18Jul2025 05:09:38.724] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [unwey456]
 [18Jul2025 05:09:38.724] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [unwey456]
+[18Jul2025 05:10:12.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrew_50G fell while climbing
+[18Jul2025 05:10:12.919] [Server thread/INFO] [tombstone/]: The player Andrew_50G has successfully been saved
+[18Jul2025 05:10:13.177] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-80, y=96, z=9} BlockPos{x=-16, y=105, z=-2}
+[18Jul2025 05:10:13.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N30NP1X3l was slain by Zombie Villager
+[18Jul2025 05:10:13.826] [Server thread/INFO] [tombstone/]: The player N30NP1X3l has successfully been saved
+[18Jul2025 05:10:14.566] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Jul2025 05:10:14.713] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Andrew_50G]
+[18Jul2025 05:10:14.713] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Andrew_50G]
+[18Jul2025 05:10:15.182] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Jul2025 05:10:15.320] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [N30NP1X3l]
+[18Jul2025 05:10:15.320] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [N30NP1X3l]
+[18Jul2025 05:10:38.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Andrew_50G: Set mob scaling factor to 0]
+[18Jul2025 05:12:21.173] [Server thread/WARN] [pointblank/]: Skipping loading of outdated or expired slot mappings.
+[18Jul2025 05:12:37.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: unwey456 was slain by Zombie
+[18Jul2025 05:12:37.427] [Server thread/INFO] [tombstone/]: The player unwey456 has successfully been saved
+[18Jul2025 05:12:38.575] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Jul2025 05:12:38.663] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [unwey456]
+[18Jul2025 05:12:38.663] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [unwey456]
+[18Jul2025 05:13:49.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N30NP1X3l was slain by Andrew_50G
+[18Jul2025 05:13:49.279] [Server thread/INFO] [tombstone/]: The player N30NP1X3l has successfully been saved
+[18Jul2025 05:13:50.914] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Jul2025 05:13:51.068] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [N30NP1X3l]
+[18Jul2025 05:13:51.068] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [N30NP1X3l]
+[18Jul2025 05:14:03.483] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4, y=80, z=-46} BlockPos{x=-3, y=85, z=-11}
+[18Jul2025 05:14:03.529] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4, y=80, z=-46} BlockPos{x=-3, y=86, z=-11}
+[18Jul2025 05:14:16.431] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: N30NP1X3l moved wrongly!
+[18Jul2025 05:15:05.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N30NP1X3l was doomed to fall by Pillager
+[18Jul2025 05:15:05.780] [Server thread/INFO] [tombstone/]: The player N30NP1X3l has successfully been saved
+[18Jul2025 05:15:07.412] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Jul2025 05:15:07.536] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [N30NP1X3l]
+[18Jul2025 05:15:07.536] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [N30NP1X3l]
+[18Jul2025 05:15:35.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <inquisitor1102> nop
+[18Jul2025 05:16:59.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N30NP1X3l was slain by Andrew_50G
+[18Jul2025 05:16:59.229] [Server thread/INFO] [tombstone/]: The player N30NP1X3l has successfully been saved
+[18Jul2025 05:17:22.477] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Jul2025 05:17:22.585] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [N30NP1X3l]
+[18Jul2025 05:17:22.585] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [N30NP1X3l]
+[18Jul2025 05:18:40.129] [Server thread/INFO] [BinocularsItem/]: BinocularsItem use() called. Hand: MAIN_HAND, Player: N30NP1X3l
+[18Jul2025 05:18:40.129] [Server thread/INFO] [BinocularsItem/]: Current item usage state: false
+[18Jul2025 05:18:40.129] [Server thread/INFO] [BinocularsItem/]: Sending network message from server
+[18Jul2025 05:18:40.130] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/keerdm/binocularsmod/client/BinocularsOverlay for invalid dist DEDICATED_SERVER
+[18Jul2025 05:18:40.130] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemPacket@22c37756, suppressing error
+java.lang.RuntimeException: Attempted to load class com/keerdm/binocularsmod/client/BinocularsOverlay for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.4.2.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at com.keerdm.binocularsmod.item.BinocularsItem.m_7203_(BinocularsItem.java:53) ~[binocularsmod-1.02.jar%23307!/:1.02]
+	at net.minecraft.world.item.ItemStack.m_41682_(ItemStack.java:275) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameMode.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerGamePacketListenerImpl.java:1085) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(ServerboundUseItemPacket.java:29) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(ServerboundUseItemPacket.java:7) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[18Jul2025 05:18:47.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N30NP1X3l was slain by inquisitor1102
+[18Jul2025 05:18:47.518] [Server thread/INFO] [tombstone/]: The player N30NP1X3l has successfully been saved
+[18Jul2025 05:18:48.869] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Jul2025 05:18:48.983] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [N30NP1X3l]
+[18Jul2025 05:18:48.983] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [N30NP1X3l]
+[18Jul2025 05:19:41.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Andrew_50G: Set own game mode to Creative Mode]
+[18Jul2025 05:20:04.772] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=80, z=-44} BlockPos{x=-3, y=81, z=-13}
+[18Jul2025 05:20:04.877] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=80, z=-44} BlockPos{x=-3, y=82, z=-11}
+[18Jul2025 05:21:53.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Andrew_50G: Set own game mode to Survival Mode]
+[18Jul2025 05:22:09.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <inquisitor1102> no tenes mas gunmetal?
+[18Jul2025 05:22:14.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N30NP1X3l was slain by Andrew_50G
+[18Jul2025 05:22:14.681] [Server thread/INFO] [tombstone/]: The player N30NP1X3l has successfully been saved
+[18Jul2025 05:22:16.279] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Jul2025 05:22:16.420] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [N30NP1X3l]
+[18Jul2025 05:22:16.420] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [N30NP1X3l]
+[18Jul2025 05:22:20.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <inquisitor1102> pipipi
+[18Jul2025 05:22:32.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <unwey456> toi rodiado
+[18Jul2025 05:22:37.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <unwey456> XD
+[18Jul2025 05:24:29.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N30NP1X3l was slain by Andrew_50G
+[18Jul2025 05:24:29.219] [Server thread/INFO] [tombstone/]: The player N30NP1X3l has successfully been saved
+[18Jul2025 05:24:30.366] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Jul2025 05:24:30.512] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [N30NP1X3l]
+[18Jul2025 05:24:30.513] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [N30NP1X3l]
+[18Jul2025 05:24:54.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N30NP1X3l was slain by Andrew_50G
+[18Jul2025 05:24:54.522] [Server thread/INFO] [tombstone/]: The player N30NP1X3l has successfully been saved
+[18Jul2025 05:24:56.264] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Jul2025 05:24:56.388] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [N30NP1X3l]
+[18Jul2025 05:24:56.388] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [N30NP1X3l]
+[18Jul2025 05:25:12.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <inquisitor1102> no tenes hierro sarel?
+[18Jul2025 05:25:19.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N30NP1X3l was slain by Andrew_50G
+[18Jul2025 05:25:19.816] [Server thread/INFO] [tombstone/]: The player N30NP1X3l has successfully been saved
+[18Jul2025 05:25:28.474] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Jul2025 05:25:28.613] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [N30NP1X3l]
+[18Jul2025 05:25:28.613] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [N30NP1X3l]
+[18Jul2025 05:25:52.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Andrew_50G: Set own game mode to Spectator Mode]
+[18Jul2025 05:26:25.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Andrew_50G: Set own game mode to Creative Mode]
+[18Jul2025 05:26:59.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Andrew_50G: Set own game mode to Survival Mode]
+[18Jul2025 05:27:52.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <inquisitor1102> que cosa?
+[18Jul2025 05:28:08.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <inquisitor1102> ummmm....
+[18Jul2025 05:28:12.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <inquisitor1102> creo que no
+[18Jul2025 05:28:37.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <inquisitor1102> nop, no tenia utilidad

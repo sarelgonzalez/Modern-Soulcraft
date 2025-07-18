@@ -981,6 +981,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-07-18 05:09:37 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_oak_fence_gate": {
     "criteria": {
       "has_stick": "2025-07-18 03:47:34 +0000"
