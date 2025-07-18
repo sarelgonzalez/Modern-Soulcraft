@@ -4744,3 +4744,67 @@ java.lang.RuntimeException: Attempted to load class com/keerdm/binocularsmod/cli
 [18Jul2025 04:49:00.725] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e2fb7a3a-51c5-3c5d-8d8d-df4e1427bb07 was loaded
 [18Jul2025 04:49:00.726] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Andrew_50G]
 [18Jul2025 04:49:00.726] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Andrew_50G]
+[18Jul2025 04:53:09.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrew_50G has made the advancement [Disme A Dozen]
+[18Jul2025 04:53:29.229] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Supinv__ lost connection: Disconnected
+[18Jul2025 04:53:29.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Supinv__ left the game
+[18Jul2025 04:53:29.229] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 759cc803-6395-31c3-b994-6948d4b4e35c was unloaded
+[18Jul2025 04:55:48.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N30NP1X3l tried to swim in lava to escape Zombie
+[18Jul2025 04:55:48.479] [Server thread/INFO] [tombstone/]: The player N30NP1X3l has successfully been saved
+[18Jul2025 04:55:54.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrew_50G was slain by Zombie
+[18Jul2025 04:55:54.733] [Server thread/INFO] [tombstone/]: The player Andrew_50G has successfully been saved
+[18Jul2025 04:55:56.031] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Jul2025 04:55:56.131] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [N30NP1X3l]
+[18Jul2025 04:55:56.131] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [N30NP1X3l]
+[18Jul2025 04:55:59.800] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Jul2025 04:55:59.905] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Andrew_50G]
+[18Jul2025 04:55:59.905] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Andrew_50G]
+[18Jul2025 04:56:09.789] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=14, y=84, z=-8}
+[18Jul2025 04:56:09.854] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=14, y=83, z=-8}
+[18Jul2025 04:56:10.671] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=14, y=82, z=-8}
+[18Jul2025 04:56:11.479] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=15, y=82, z=-9}
+[18Jul2025 04:56:11.541] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=15, y=81, z=-9}
+[18Jul2025 04:56:11.602] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=15, y=82, z=-9}
+[18Jul2025 04:56:12.439] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=15, y=82, z=-9}
+[18Jul2025 04:56:12.957] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=15, y=84, z=-10}
+[18Jul2025 04:56:13.132] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=15, y=83, z=-10}
+[18Jul2025 04:56:13.627] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=14, y=83, z=-8}
+[18Jul2025 04:56:13.835] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=14, y=81, z=-8}
+[18Jul2025 04:56:14.060] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=14, y=81, z=-9}
+[18Jul2025 04:56:14.062] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[18Jul2025 04:56:14.195] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=14, y=81, z=-11}
+[18Jul2025 04:56:14.268] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=14, y=81, z=-9}
+[18Jul2025 04:56:14.505] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=13, y=83, z=-8}
+[18Jul2025 04:56:14.658] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=13, y=83, z=-8}
+[18Jul2025 04:56:14.756] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=13, y=82, z=-8}
+[18Jul2025 04:56:14.945] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=15, y=82, z=-9}
+[18Jul2025 04:56:15.819] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=14, y=81, z=-13}
+[18Jul2025 04:56:16.294] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=15, y=83, z=-12}
+[18Jul2025 04:56:33.252] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4214ms or 84 ticks behind
+[18Jul2025 04:56:37.925] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=12, y=82, z=-8}
+[18Jul2025 04:56:40.332] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=9, y=84, z=-8}
+[18Jul2025 04:56:40.388] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=9, y=83, z=-8}
+[18Jul2025 04:56:40.694] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=9, y=81, z=-9}
+[18Jul2025 04:56:41.116] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=9, y=81, z=-10}
+[18Jul2025 04:56:41.340] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=9, y=81, z=-10}
+[18Jul2025 04:56:41.567] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=9, y=80, z=-10}
+[18Jul2025 04:56:41.633] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=9, y=81, z=-10}
+[18Jul2025 04:56:41.634] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=9, y=81, z=-9}
+[18Jul2025 04:56:41.801] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=81, z=-8}
+[18Jul2025 04:56:41.923] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=81, z=-9}
+[18Jul2025 04:56:42.080] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=81, z=-9}
+[18Jul2025 04:56:42.294] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=10, y=81, z=-9}
+[18Jul2025 04:56:42.500] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=11, y=82, z=-8}
+[18Jul2025 04:56:42.872] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=11, y=82, z=-8}
+[18Jul2025 04:56:42.926] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=11, y=83, z=-8}
+[18Jul2025 04:56:44.365] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=7, y=81, z=-10}
+[18Jul2025 04:56:44.419] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=9, y=81, z=-10}
+[18Jul2025 04:56:50.802] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2563ms or 51 ticks behind
+[18Jul2025 04:57:08.966] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3177ms or 63 ticks behind
+[18Jul2025 04:57:27.144] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3205ms or 64 ticks behind
+[18Jul2025 04:57:45.879] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3741ms or 74 ticks behind
+[18Jul2025 04:58:04.669] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3830ms or 76 ticks behind
+[18Jul2025 04:58:24.325] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4687ms or 93 ticks behind
+[18Jul2025 04:58:44.687] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5398ms or 107 ticks behind
+[18Jul2025 04:59:04.649] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5011ms or 100 ticks behind
+[18Jul2025 04:59:24.669] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5030ms or 100 ticks behind
+[18Jul2025 04:59:43.864] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4226ms or 84 ticks behind
