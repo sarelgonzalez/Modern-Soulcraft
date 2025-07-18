@@ -5361,3 +5361,34 @@ java.lang.RuntimeException: Attempted to load class com/keerdm/binocularsmod/cli
 [18Jul2025 06:09:05.011] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [N30NP1X3l]
 [18Jul2025 06:09:05.011] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [N30NP1X3l]
 [18Jul2025 06:09:16.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Andrew_50G: Teleported N30NP1X3l to Andrew_50G]
+[18Jul2025 06:13:44.356] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@70f5a4d7]Trying to start horde event on day 10 with nextDay 10 and time 10000
+[18Jul2025 06:13:44.356] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@c48781
+[18Jul2025 06:13:44.356] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 0
+[18Jul2025 06:13:44.357] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 0
+[18Jul2025 06:13:44.405] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[18Jul2025 06:13:44.406] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[18Jul2025 06:14:09.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Andrew_50G: Summoned Warden at -59 -36 -66]
+[18Jul2025 06:14:14.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Andrew_50G: Summoned Warden at -59 -36 -66]
+[18Jul2025 06:14:34.413] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[18Jul2025 06:14:34.413] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[18Jul2025 06:15:24.411] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[18Jul2025 06:15:24.411] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[18Jul2025 06:16:14.409] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[18Jul2025 06:16:14.409] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[18Jul2025 06:17:04.406] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[18Jul2025 06:17:04.406] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[18Jul2025 06:17:24.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N30NP1X3l was slain by Zombie
+[18Jul2025 06:17:24.166] [Server thread/INFO] [tombstone/]: The player N30NP1X3l has successfully been saved
+[18Jul2025 06:17:25.309] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Jul2025 06:17:25.437] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [N30NP1X3l]
+[18Jul2025 06:17:25.437] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [N30NP1X3l]
+[18Jul2025 06:17:54.410] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[18Jul2025 06:17:54.410] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[18Jul2025 06:18:43.415] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: inquisitor1102 lost connection: Disconnected
+[18Jul2025 06:18:43.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inquisitor1102 left the game
+[18Jul2025 06:18:43.416] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of f6de3262-ca80-306a-bc26-d2e8f2aee178 was unloaded
+[18Jul2025 06:18:58.503] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=6, y=81, z=-11}
+[18Jul2025 06:19:08.305] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: N30NP1X3l lost connection: Disconnected
+[18Jul2025 06:19:08.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N30NP1X3l left the game
+[18Jul2025 06:19:08.306] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of ae9115be-ccc4-3759-8703-b5a55177e635 was unloaded
+[18Jul2025 06:19:19.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrew_50G has made the advancement [Cover Me with Diamonds]
