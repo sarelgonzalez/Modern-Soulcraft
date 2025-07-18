@@ -1,0 +1,17 @@
+{
+	id: "759cc803-6395-31c3-b994-6948d4b4e35c"
+	type: "player"
+	player_name: "Supinv__"
+	ranks: {
+		759cc803-6395-31c3-b994-6948d4b4e35c: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Supinv__"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59CCFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

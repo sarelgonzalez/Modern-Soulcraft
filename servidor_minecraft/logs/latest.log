@@ -866,3 +866,81 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [18Jul2025 02:37:40.314] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e2fb7a3a-51c5-3c5d-8d8d-df4e1427bb07 was loaded
 [18Jul2025 02:37:40.315] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Andrew_50G]
 [18Jul2025 02:37:40.315] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Andrew_50G]
+[18Jul2025 02:39:44.466] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: N30NP1X3l lost connection: Disconnected
+[18Jul2025 02:39:44.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N30NP1X3l left the game
+[18Jul2025 02:39:44.470] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of ae9115be-ccc4-3759-8703-b5a55177e635 was unloaded
+[18Jul2025 02:39:56.010] [Server thread/INFO] [BinocularsItem/]: BinocularsItem use() called. Hand: MAIN_HAND, Player: inquisitor1102
+[18Jul2025 02:39:56.010] [Server thread/INFO] [BinocularsItem/]: Current item usage state: false
+[18Jul2025 02:39:56.010] [Server thread/INFO] [BinocularsItem/]: Sending network message from server
+[18Jul2025 02:39:56.011] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/keerdm/binocularsmod/client/BinocularsOverlay for invalid dist DEDICATED_SERVER
+[18Jul2025 02:39:56.011] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemPacket@f441cd1, suppressing error
+java.lang.RuntimeException: Attempted to load class com/keerdm/binocularsmod/client/BinocularsOverlay for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.4.2.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at com.keerdm.binocularsmod.item.BinocularsItem.m_7203_(BinocularsItem.java:53) ~[binocularsmod-1.02.jar%23307!/:1.02]
+	at net.minecraft.world.item.ItemStack.m_41682_(ItemStack.java:275) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameMode.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerGamePacketListenerImpl.java:1085) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(ServerboundUseItemPacket.java:29) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(ServerboundUseItemPacket.java:7) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[18Jul2025 02:41:42.210] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: inquisitor1102 lost connection: Timed out
+[18Jul2025 02:41:42.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inquisitor1102 left the game
+[18Jul2025 02:41:42.211] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of f6de3262-ca80-306a-bc26-d2e8f2aee178 was unloaded
+[18Jul2025 02:41:42.257] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Jul2025 02:42:13.824] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: inquisitor1102[/10.147.17.146:62404] logged in with entity id 21685 at (-53.40682380958534, -14.0, -41.67599722982645)
+[18Jul2025 02:42:13.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inquisitor1102 joined the game
+[18Jul2025 02:42:13.899] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to inquisitor1102
+[18Jul2025 02:42:14.129] [Netty Epoll Server IO #4/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from inquisitor1102
+[18Jul2025 02:42:14.481] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of f6de3262-ca80-306a-bc26-d2e8f2aee178 was loaded
+[18Jul2025 02:42:14.482] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [inquisitor1102]
+[18Jul2025 02:42:14.482] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [inquisitor1102]
+[18Jul2025 02:42:58.958] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: inquisitor1102 lost connection: Timed out
+[18Jul2025 02:42:58.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inquisitor1102 left the game
+[18Jul2025 02:42:58.958] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of f6de3262-ca80-306a-bc26-d2e8f2aee178 was unloaded
+[18Jul2025 02:43:31.129] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: inquisitor1102[/10.147.17.146:62475] logged in with entity id 24582 at (-53.40682380958534, -14.0, -41.67599722982645)
+[18Jul2025 02:43:31.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inquisitor1102 joined the game
+[18Jul2025 02:43:31.216] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to inquisitor1102
+[18Jul2025 02:43:31.455] [Netty Epoll Server IO #7/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from inquisitor1102
+[18Jul2025 02:43:31.493] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of f6de3262-ca80-306a-bc26-d2e8f2aee178 was loaded
+[18Jul2025 02:43:31.494] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [inquisitor1102]
+[18Jul2025 02:43:31.494] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [inquisitor1102]
+[18Jul2025 02:44:10.670] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: inquisitor1102 moved too quickly! 9.924069931704139,1.0,0.8723420851700752
+[18Jul2025 02:45:51.519] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Supinv__[/10.147.17.110:50672] logged in with entity id 31272 at (8.5, 96.0, -6.5)
+[18Jul2025 02:45:51.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Supinv__ joined the game
+[18Jul2025 02:45:51.584] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Supinv__
+[18Jul2025 02:45:52.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Supinv__ has made the advancement [Suit Up]
+[18Jul2025 02:45:54.636] [Netty Epoll Server IO #2/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Supinv__
+[18Jul2025 02:45:54.773] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 759cc803-6395-31c3-b994-6948d4b4e35c was loaded
+[18Jul2025 02:45:54.774] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Supinv__]
+[18Jul2025 02:45:54.774] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Supinv__]
+[18Jul2025 02:46:23.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Supinv__ was slain by Zombie
+[18Jul2025 02:46:23.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Supinv__ has made the advancement [Your First Grave]
+[18Jul2025 02:46:24.004] [Server thread/INFO] [tombstone/]: The player Supinv__ has successfully been saved
+[18Jul2025 02:46:50.738] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Jul2025 02:46:51.783] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Supinv__]
+[18Jul2025 02:46:51.783] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Supinv__]
+[18Jul2025 02:48:01.663] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: inquisitor1102 lost connection: Timed out
+[18Jul2025 02:48:01.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inquisitor1102 left the game
+[18Jul2025 02:48:01.664] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of f6de3262-ca80-306a-bc26-d2e8f2aee178 was unloaded
