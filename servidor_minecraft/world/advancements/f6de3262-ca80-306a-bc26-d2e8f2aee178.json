@@ -4885,6 +4885,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/industrial_iron_bars_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-07-18 05:52:01 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/chicken_soup": {
     "criteria": {
       "has_any_ingredient": "2025-07-18 04:44:21 +0000"
@@ -4939,6 +4945,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/misc/industrial_iron_nugget_from_industrial_iron_ingot": {
+    "criteria": {
+      "has_industrial_iron_ingot": "2025-07-18 05:52:01 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2025-07-18 04:14:13 +0000"
@@ -4954,6 +4966,24 @@
   "create:recipes/building_blocks/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-07-18 03:38:13 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_support_wedge_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-07-18 05:52:01 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_catwalk_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-07-18 05:52:01 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_bars": {
+    "criteria": {
+      "has_item": "2025-07-18 05:52:01 +0000"
     },
     "done": true
   },
@@ -5023,6 +5053,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/industrial_iron_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-18 05:52:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-07-18 04:09:14 +0000"
@@ -5056,6 +5092,12 @@
   "securitycraft:recipes/decorations/secret_oak_hanging_sign": {
     "criteria": {
       "has_sign": "2025-07-18 04:44:21 +0000"
+    },
+    "done": true
+  },
+  "the_deep_void:shining_darkness_in_deepest_parts": {
+    "criteria": {
+      "shining_darkness_in_deepest_parts_0": "2025-07-18 05:56:26 +0000"
     },
     "done": true
   },
@@ -5131,6 +5173,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/misc/industrial_iron_block": {
+    "criteria": {
+      "has_industrial_iron_ingot": "2025-07-18 05:52:01 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/tinkering_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-18 03:29:58 +0000"
@@ -5152,6 +5200,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2025-07-18 04:44:16 +0000"
+    },
+    "done": true
+  },
+  "the_deep_void:is_it_amethyst": {
+    "criteria": {
+      "is_it_amethyst_0": "2025-07-18 05:56:26 +0000"
     },
     "done": true
   },
@@ -5317,6 +5371,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/industrial_iron_bars_overlay_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-07-18 05:52:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-07-18 03:15:41 +0000"
@@ -5326,6 +5386,12 @@
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_chestplate": "2025-07-18 04:09:14 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_door": {
+    "criteria": {
+      "has_item": "2025-07-18 05:52:01 +0000"
     },
     "done": true
   },
@@ -5356,6 +5422,12 @@
   "create:recipes/building_blocks/cut_calcite_bricks_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-07-18 03:38:13 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_catwalk_stairs_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-07-18 05:52:01 +0000"
     },
     "done": true
   },
@@ -5425,6 +5497,18 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/industrial_iron_ladder_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-07-18 05:52:01 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_support": {
+    "criteria": {
+      "has_item": "2025-07-18 05:52:01 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-18 03:29:58 +0000"
@@ -5461,6 +5545,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/industrial_iron_catwalk_railing_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-07-18 05:52:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-07-18 03:38:13 +0000"
@@ -5488,6 +5578,12 @@
   "sophisticatedbackpacks:recipes/misc/chipped/alchemy_bench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-18 03:29:58 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/industrial_iron_window": {
+    "criteria": {
+      "has_item": "2025-07-18 05:52:01 +0000"
     },
     "done": true
   },
@@ -5530,6 +5626,12 @@
   "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-18 03:29:58 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_mesh_fence_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-07-18 05:52:01 +0000"
     },
     "done": true
   },

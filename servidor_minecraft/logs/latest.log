@@ -5199,3 +5199,145 @@ java.lang.RuntimeException: Attempted to load class com/keerdm/binocularsmod/cli
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[18Jul2025 05:50:45.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: unwey456 has made the advancement ['X' Marks the Spot]
+[18Jul2025 05:50:52.837] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-3, y=-63, z=-8}
+[18Jul2025 05:50:52.888] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-3, y=-63, z=-8}
+[18Jul2025 05:50:52.933] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-3, y=-63, z=-8}
+[18Jul2025 05:50:53.013] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-1, y=-63, z=-9}
+[18Jul2025 05:50:53.123] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-1, y=-63, z=-9}
+[18Jul2025 05:50:53.209] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-1, y=-63, z=-9}
+[18Jul2025 05:50:53.310] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-1, y=-63, z=-9}
+[18Jul2025 05:50:53.378] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-1, y=-63, z=-9}
+[18Jul2025 05:50:53.462] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-1, y=-63, z=-9}
+[18Jul2025 05:50:53.494] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-1, y=-63, z=-9}
+[18Jul2025 05:50:53.560] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-1, y=-63, z=-9}
+[18Jul2025 05:50:53.637] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-2, y=-63, z=-10}
+[18Jul2025 05:50:53.680] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-2, y=-63, z=-10}
+[18Jul2025 05:50:53.763] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-2, y=-63, z=-10}
+[18Jul2025 05:50:53.861] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-3, y=-63, z=-10}
+[18Jul2025 05:50:53.934] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-3, y=-63, z=-10}
+[18Jul2025 05:50:54.008] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-3, y=-63, z=-10}
+[18Jul2025 05:50:54.067] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-3, y=-63, z=-10}
+[18Jul2025 05:50:54.164] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-1, y=-62, z=-9}
+[18Jul2025 05:50:54.212] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-1, y=-62, z=-9}
+[18Jul2025 05:50:54.410] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-1, y=-62, z=-9}
+[18Jul2025 05:50:54.435] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-1, y=-62, z=-9}
+[18Jul2025 05:50:54.481] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-1, y=-62, z=-9}
+[18Jul2025 05:50:54.617] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-1, y=-63, z=-9}
+[18Jul2025 05:50:54.660] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-1, y=-63, z=-9}
+[18Jul2025 05:50:54.682] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-1, y=-63, z=-9}
+[18Jul2025 05:50:54.736] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-1, y=-63, z=-9}
+[18Jul2025 05:50:55.512] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-3, y=-63, z=-10}
+[18Jul2025 05:50:55.536] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-3, y=-63, z=-10}
+[18Jul2025 05:50:55.610] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-3, y=-63, z=-10}
+[18Jul2025 05:50:55.661] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-2, y=-63, z=-10}
+[18Jul2025 05:50:55.678] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-2, y=-63, z=-10}
+[18Jul2025 05:50:55.736] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-2, y=-63, z=-10}
+[18Jul2025 05:50:55.858] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-2, y=-64, z=-9}
+[18Jul2025 05:50:56.686] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-3, y=-63, z=-10}
+[18Jul2025 05:50:56.861] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-3, y=-63, z=-10}
+[18Jul2025 05:50:57.014] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-3, y=-63, z=-10}
+[18Jul2025 05:50:57.082] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-3, y=-63, z=-10}
+[18Jul2025 05:50:57.138] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-3, y=-63, z=-10}
+[18Jul2025 05:50:57.181] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-3, y=-63, z=-10}
+[18Jul2025 05:50:57.260] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-2, y=-63, z=-10}
+[18Jul2025 05:50:57.314] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-2, y=-63, z=-10}
+[18Jul2025 05:50:57.335] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-2, y=-63, z=-10}
+[18Jul2025 05:50:57.384] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-1, y=-63, z=-9}
+[18Jul2025 05:50:57.482] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-1, y=-63, z=-9}
+[18Jul2025 05:50:57.525] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-1, y=-63, z=-9}
+[18Jul2025 05:50:57.628] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-2, y=-62, z=-8}
+[18Jul2025 05:50:57.710] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-1, y=-62, z=-9}
+[18Jul2025 05:50:57.730] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-1, y=-62, z=-9}
+[18Jul2025 05:50:57.776] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-1, y=-62, z=-9}
+[18Jul2025 05:50:57.885] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-1, y=-62, z=-9}
+[18Jul2025 05:50:57.933] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-1, y=-62, z=-9}
+[18Jul2025 05:50:58.011] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-1, y=-62, z=-9}
+[18Jul2025 05:50:58.132] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-1, y=-62, z=-9}
+[18Jul2025 05:50:58.212] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-2, y=-62, z=-8}
+[18Jul2025 05:50:58.234] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-2, y=-62, z=-8}
+[18Jul2025 05:50:58.395] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-2, y=-62, z=-8}
+[18Jul2025 05:50:58.431] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-2, y=-62, z=-8}
+[18Jul2025 05:50:58.479] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-2, y=-62, z=-8}
+[18Jul2025 05:50:58.560] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=-61, z=0} BlockPos{x=-2, y=-62, z=-8}
+[18Jul2025 05:51:03.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: unwey456 has reached the goal [Is It Amethyst ?]
+[18Jul2025 05:51:19.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrew_50G has reached the goal [Shining Darkness]
+[18Jul2025 05:51:20.437] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-19, y=-63, z=-11} BlockPos{x=-14, y=-45, z=-1}
+[18Jul2025 05:51:45.982] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-23, y=-51, z=-11} BlockPos{x=-3, y=-64, z=-9}
+[18Jul2025 05:51:46.059] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-23, y=-51, z=-11} BlockPos{x=-3, y=-64, z=-9}
+[18Jul2025 05:51:46.836] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-23, y=-51, z=-11} BlockPos{x=-3, y=-64, z=-8}
+[18Jul2025 05:52:06.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <inquisitor1102> ES VERDAD
+[18Jul2025 05:52:14.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <inquisitor1102> HAY QUE DARLE LIBERTADDDDD
+[18Jul2025 05:54:17.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andrew_50G moved wrongly!
+[18Jul2025 05:55:53.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N30NP1X3l has made the advancement ['X' Marks the Spot]
+[18Jul2025 05:56:02.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N30NP1X3l has reached the goal [Shining Darkness]
+[18Jul2025 05:56:26.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inquisitor1102 has reached the goal [Shining Darkness]
+[18Jul2025 05:56:26.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inquisitor1102 has reached the goal [Is It Amethyst ?]
+[18Jul2025 05:56:56.905] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: unwey456 lost connection: Disconnected
+[18Jul2025 05:56:56.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: unwey456 left the game
+[18Jul2025 05:56:56.906] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9b5cbb27-0661-3c24-9995-4270e55597c0 was unloaded
+[18Jul2025 05:58:54.854] [Server thread/ERROR] [Scaling Mobs/]: Reference is not a valid objet type for milestones
+[18Jul2025 05:59:01.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrew_50G has made the advancement [Going Down]
+[18Jul2025 05:59:01.514] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Andrew_50G]
+[18Jul2025 05:59:01.515] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Andrew_50G]
+[18Jul2025 05:59:01.563] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6675ms or 133 ticks behind
+[18Jul2025 05:59:02.676] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andrew_50G moved too quickly! 0.0,199.3490730260255,0.0
+[18Jul2025 05:59:03.936] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: the_deep_void:mineshaft_bigparts
+[18Jul2025 05:59:04.023] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: the_deep_void:mineshaft_bigparts
+[18Jul2025 05:59:04.023] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: the_deep_void:mineshaft_bigparts
+[18Jul2025 05:59:04.029] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: the_deep_void:mineshaft_bigparts
+[18Jul2025 05:59:04.122] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: the_deep_void:mineshaft_bigparts
+[18Jul2025 05:59:04.122] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: the_deep_void:mineshaft_bigparts
+[18Jul2025 05:59:04.373] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[18Jul2025 05:59:05.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andrew_50G moved too quickly! 0.0,-10.806526110008974,0.0
+[18Jul2025 05:59:08.465] [Worker-Main-22/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[18Jul2025 05:59:12.016] [Worker-Main-5/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[18Jul2025 05:59:12.016] [Worker-Main-5/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[18Jul2025 05:59:16.708] [Worker-Main-23/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[18Jul2025 05:59:16.955] [Worker-Main-5/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[18Jul2025 05:59:16.956] [Worker-Main-5/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[18Jul2025 05:59:20.137] [Worker-Main-14/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[18Jul2025 05:59:20.137] [Worker-Main-14/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[18Jul2025 05:59:20.519] [Worker-Main-15/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[18Jul2025 05:59:20.519] [Worker-Main-15/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[18Jul2025 05:59:21.784] [Worker-Main-22/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[18Jul2025 05:59:22.508] [Worker-Main-22/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[18Jul2025 05:59:22.508] [Worker-Main-22/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[18Jul2025 05:59:22.593] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[18Jul2025 05:59:23.862] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[18Jul2025 05:59:29.284] [Worker-Main-15/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[18Jul2025 05:59:29.284] [Worker-Main-15/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[18Jul2025 05:59:30.835] [Worker-Main-8/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[18Jul2025 05:59:32.265] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[18Jul2025 05:59:32.266] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[18Jul2025 05:59:34.948] [Worker-Main-22/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[18Jul2025 05:59:35.051] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[18Jul2025 05:59:35.052] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[18Jul2025 05:59:35.052] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[18Jul2025 05:59:35.053] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-145, y=-21, z=247}
+[18Jul2025 05:59:35.054] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[18Jul2025 05:59:35.055] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[18Jul2025 05:59:35.055] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-143, y=-22, z=247}
+[18Jul2025 05:59:35.055] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-144, y=-22, z=247}
+[18Jul2025 05:59:35.055] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-144, y=-23, z=252}
+[18Jul2025 05:59:35.062] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[18Jul2025 05:59:38.857] [Worker-Main-19/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[18Jul2025 05:59:45.410] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[18Jul2025 05:59:45.410] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[18Jul2025 05:59:50.781] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[18Jul2025 05:59:50.782] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[18Jul2025 05:59:53.156] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[18Jul2025 05:59:53.206] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[18Jul2025 05:59:55.034] [Worker-Main-20/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[18Jul2025 05:59:57.356] [Worker-Main-6/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[18Jul2025 05:59:59.985] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[18Jul2025 06:00:01.421] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[18Jul2025 06:00:02.185] [Worker-Main-6/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[18Jul2025 06:00:05.676] [Worker-Main-7/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[18Jul2025 06:00:08.597] [Worker-Main-24/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[18Jul2025 06:00:08.598] [Worker-Main-24/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[18Jul2025 06:00:12.361] [Worker-Main-15/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[18Jul2025 06:00:16.309] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[18Jul2025 06:00:17.390] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[18Jul2025 06:00:17.391] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[18Jul2025 06:00:18.582] [Worker-Main-15/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
