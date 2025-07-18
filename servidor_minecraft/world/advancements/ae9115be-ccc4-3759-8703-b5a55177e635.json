@@ -769,6 +769,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2025-07-18 03:59:43 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_lattice_fence": {
     "criteria": {
       "has_stick": "2025-07-18 02:57:08 +0000"
@@ -868,6 +874,12 @@
   "refurbished_furniture:recipes/misc/constructing/orange_basin": {
     "criteria": {
       "has_orange_dye": "2025-07-18 03:17:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-07-18 03:59:43 +0000"
     },
     "done": true
   },
@@ -1030,6 +1042,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-07-18 03:54:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-07-18 03:59:43 +0000"
     },
     "done": true
   },
