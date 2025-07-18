@@ -4889,6 +4889,12 @@
     },
     "done": true
   },
+  "the_deeper_void:going_down": {
+    "criteria": {
+      "going_down_0": "2025-07-18 05:59:01 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_bamboo_sign_item": {
     "criteria": {
       "has_sign": "2025-07-18 05:54:04 +0000"

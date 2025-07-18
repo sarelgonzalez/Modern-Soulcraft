@@ -5341,3 +5341,23 @@ java.lang.RuntimeException: Attempted to load class com/keerdm/binocularsmod/cli
 [18Jul2025 06:00:17.390] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
 [18Jul2025 06:00:17.391] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
 [18Jul2025 06:00:18.582] [Worker-Main-15/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[18Jul2025 06:00:58.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inquisitor1102 has made the advancement [Sneak 100]
+[18Jul2025 06:01:24.055] [Server thread/ERROR] [Scaling Mobs/]: Reference is not a valid objet type for milestones
+[18Jul2025 06:01:24.321] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Andrew_50G]
+[18Jul2025 06:01:24.321] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Andrew_50G]
+[18Jul2025 06:01:24.907] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andrew_50G moved too quickly! 0.0,-150.00133597911213,0.0
+[18Jul2025 06:01:41.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Andrew_50G: Set own game mode to Spectator Mode]
+[18Jul2025 06:01:51.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Andrew_50G: Set own game mode to Survival Mode]
+[18Jul2025 06:02:34.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N30NP1X3l has made the advancement [Barrel Booty]
+[18Jul2025 06:02:39.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N30NP1X3l has made the advancement [Crops of the Wild]
+[18Jul2025 06:03:51.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N30NP1X3l has made the advancement [Magic Writing]
+[18Jul2025 06:04:59.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Andrew_50G: Set own game mode to Spectator Mode]
+[18Jul2025 06:05:01.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Andrew_50G: Set own game mode to Survival Mode]
+[18Jul2025 06:08:38.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Andrew_50G: Set own game mode to Spectator Mode]
+[18Jul2025 06:08:42.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Andrew_50G: Set own game mode to Survival Mode]
+[18Jul2025 06:09:01.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N30NP1X3l was slain by Andrew_50G
+[18Jul2025 06:09:01.555] [Server thread/INFO] [tombstone/]: The player N30NP1X3l has successfully been saved
+[18Jul2025 06:09:04.889] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Jul2025 06:09:05.011] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [N30NP1X3l]
+[18Jul2025 06:09:05.011] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [N30NP1X3l]
+[18Jul2025 06:09:16.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Andrew_50G: Teleported N30NP1X3l to Andrew_50G]

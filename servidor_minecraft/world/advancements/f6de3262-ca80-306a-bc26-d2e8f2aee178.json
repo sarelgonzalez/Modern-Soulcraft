@@ -4843,9 +4843,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-18 06:03:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-07-18 03:15:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-18 06:07:22 +0000"
     },
     "done": true
   },
@@ -4864,6 +4876,12 @@
   "securitycraft:recipes/decorations/secret_crimson_hanging_sign": {
     "criteria": {
       "has_sign": "2025-07-18 04:44:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-07-18 05:59:11 +0000"
     },
     "done": true
   },
@@ -4897,6 +4915,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-18 06:07:22 +0000"
+    },
+    "done": true
+  },
   "lootr:1cart": {
     "criteria": {
       "opened_cart": "2025-07-18 03:50:03 +0000"
@@ -4918,6 +4942,12 @@
   "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-18 03:29:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-07-18 05:59:11 +0000"
     },
     "done": true
   },
@@ -5068,6 +5098,18 @@
   "refurbished_furniture:recipes/misc/slicing/white_dye_from_lily_of_the_valley": {
     "criteria": {
       "has_lily_of_the_valley": "2025-07-18 04:11:32 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/deepslate_tiles": {
+    "criteria": {
+      "has_copper_block": "2025-07-18 05:59:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-18 06:07:22 +0000"
     },
     "done": true
   },
@@ -5227,6 +5269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-07-18 05:59:11 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-18 03:29:58 +0000"
@@ -5305,9 +5353,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-07-18 06:00:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-07-18 03:38:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-07-18 05:59:11 +0000"
     },
     "done": true
   },
@@ -5341,9 +5401,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-07-18 06:03:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2025-07-18 04:44:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-07-18 05:59:11 +0000"
     },
     "done": true
   },
@@ -5371,6 +5443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-18 06:07:22 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/industrial_iron_bars_overlay_from_stonecutting": {
     "criteria": {
       "has_item": "2025-07-18 05:52:01 +0000"
@@ -5380,6 +5458,12 @@
   "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-07-18 03:15:41 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/deepslate_brick_layer": {
+    "criteria": {
+      "has_block": "2025-07-18 06:07:22 +0000"
     },
     "done": true
   },
@@ -5398,6 +5482,12 @@
   "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-18 03:29:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-18 06:07:22 +0000"
     },
     "done": true
   },
@@ -5461,9 +5551,21 @@
     },
     "done": true
   },
+  "bbb:recipes/deepslate_tile_layer": {
+    "criteria": {
+      "has_block": "2025-07-18 05:59:11 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/refill_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-18 03:29:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-18 06:07:22 +0000"
     },
     "done": true
   },
@@ -5515,9 +5617,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-18 06:07:22 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/anvil_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-18 03:29:58 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/deepslate_bricks": {
+    "criteria": {
+      "has_copper_block": "2025-07-18 06:07:22 +0000"
     },
     "done": true
   },
@@ -5629,6 +5743,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-18 06:07:22 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/industrial_iron_mesh_fence_from_stonecutting": {
     "criteria": {
       "has_item": "2025-07-18 05:52:01 +0000"
@@ -5644,6 +5764,18 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-07-18 04:44:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-18 06:07:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-07-18 06:03:43 +0000"
     },
     "done": true
   },
@@ -5689,9 +5821,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-07-18 05:59:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-07-18 04:09:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-07-18 05:59:11 +0000"
     },
     "done": true
   },
@@ -5743,9 +5887,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-18 06:07:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-07-18 03:15:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-18 06:07:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-07-18 06:03:43 +0000"
     },
     "done": true
   },
@@ -5770,6 +5932,12 @@
   "sophisticatedbackpacks:recipes/misc/tool_swapper_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-07-18 03:29:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-18 06:07:22 +0000"
     },
     "done": true
   },
