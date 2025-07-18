@@ -1309,6 +1309,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-07-18 04:55:38 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/iron_bars_overlay_from_stonecutting": {
     "criteria": {
       "has_item": "2025-07-18 04:18:50 +0000"

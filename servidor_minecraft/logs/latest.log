@@ -4808,3 +4808,55 @@ java.lang.RuntimeException: Attempted to load class com/keerdm/binocularsmod/cli
 [18Jul2025 04:59:04.649] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5011ms or 100 ticks behind
 [18Jul2025 04:59:24.669] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5030ms or 100 ticks behind
 [18Jul2025 04:59:43.864] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4226ms or 84 ticks behind
+[18Jul2025 05:00:04.500] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5662ms or 113 ticks behind
+[18Jul2025 05:00:25.209] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5720ms or 114 ticks behind
+[18Jul2025 05:00:46.395] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6206ms or 124 ticks behind
+[18Jul2025 05:01:05.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <inquisitor1102> el server morira con la horda XD
+[18Jul2025 05:01:07.483] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6094ms or 121 ticks behind
+[18Jul2025 05:01:28.857] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6419ms or 128 ticks behind
+[18Jul2025 05:01:50.566] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6728ms or 134 ticks behind
+[18Jul2025 05:02:12.443] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6905ms or 138 ticks behind
+[18Jul2025 05:02:35.027] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7588ms or 151 ticks behind
+[18Jul2025 05:02:57.861] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7873ms or 157 ticks behind
+[18Jul2025 05:03:20.771] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7932ms or 158 ticks behind
+[18Jul2025 05:03:43.622] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7884ms or 157 ticks behind
+[18Jul2025 05:04:06.406] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7817ms or 156 ticks behind
+[18Jul2025 05:04:29.256] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7867ms or 157 ticks behind
+[18Jul2025 05:04:51.684] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7445ms or 148 ticks behind
+[18Jul2025 05:05:01.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Andrew_50G: Set mob scaling factor to 30]
+[18Jul2025 05:05:03.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N30NP1X3l was slain by Zombie
+[18Jul2025 05:05:06.608] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Jul2025 05:05:06.794] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [N30NP1X3l]
+[18Jul2025 05:05:06.794] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [N30NP1X3l]
+[18Jul2025 05:05:11.503] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4864ms or 97 ticks behind
+[18Jul2025 05:06:18.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N30NP1X3l was slain by Zombie
+[18Jul2025 05:06:18.892] [Server thread/INFO] [tombstone/]: The player N30NP1X3l has successfully been saved
+[18Jul2025 05:06:20.287] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Jul2025 05:06:20.402] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [N30NP1X3l]
+[18Jul2025 05:06:20.402] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [N30NP1X3l]
+[18Jul2025 05:06:37.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inquisitor1102 has completed the challenge [The Power of the Sun]
+[18Jul2025 05:06:50.822] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-14, y=105, z=-2}
+[18Jul2025 05:06:50.880] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-15, y=105, z=-1}
+[18Jul2025 05:06:52.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N30NP1X3l hit the ground too hard whilst trying to escape Zombie
+[18Jul2025 05:06:52.478] [Server thread/INFO] [tombstone/]: The player N30NP1X3l has successfully been saved
+[18Jul2025 05:06:54.069] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Jul2025 05:06:54.237] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [N30NP1X3l]
+[18Jul2025 05:06:54.237] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [N30NP1X3l]
+[18Jul2025 05:06:59.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrew_50G was slain by Zombie
+[18Jul2025 05:06:59.982] [Server thread/INFO] [tombstone/]: The player Andrew_50G has successfully been saved
+[18Jul2025 05:07:01.826] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Jul2025 05:07:01.939] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Andrew_50G]
+[18Jul2025 05:07:01.939] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Andrew_50G]
+[18Jul2025 05:08:08.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N30NP1X3l hit the ground too hard whilst trying to escape Zombie
+[18Jul2025 05:08:08.488] [Server thread/INFO] [tombstone/]: The player N30NP1X3l has successfully been saved
+[18Jul2025 05:08:11.310] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Jul2025 05:08:11.473] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [N30NP1X3l]
+[18Jul2025 05:08:11.473] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [N30NP1X3l]
+[18Jul2025 05:08:21.412] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-3, y=83, z=-11}
+[18Jul2025 05:08:21.730] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-5, y=81, z=-11}
+[18Jul2025 05:09:37.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: unwey456 has reached the goal [Strong or Careful]
+[18Jul2025 05:09:37.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: unwey456 was slain by Andrew_50G
+[18Jul2025 05:09:37.135] [Server thread/INFO] [tombstone/]: The player unwey456 has successfully been saved
+[18Jul2025 05:09:38.578] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[18Jul2025 05:09:38.724] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [unwey456]
+[18Jul2025 05:09:38.724] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [unwey456]
