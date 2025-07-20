@@ -112,11 +112,13 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-07-16 04:28:14 +0000",
       "minecraft:cherry_grove": "2025-07-18 03:43:51 +0000",
+      "minecraft:birch_forest": "2025-07-20 04:04:29 +0000",
       "minecraft:beach": "2025-07-20 03:56:29 +0000",
       "minecraft:river": "2025-07-16 03:44:17 +0000",
       "minecraft:stony_shore": "2025-07-20 02:27:20 +0000",
       "minecraft:dripstone_caves": "2025-07-16 05:04:59 +0000",
       "minecraft:forest": "2025-07-16 04:19:04 +0000",
+      "minecraft:ocean": "2025-07-20 04:00:43 +0000",
       "minecraft:frozen_peaks": "2025-07-18 03:45:06 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-20 03:54:31 +0000",
       "minecraft:deep_dark": "2025-07-16 04:59:40 +0000",
@@ -1773,6 +1775,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-07-20 04:05:53 +0000",
       "cooked_beef": "2025-07-16 04:12:11 +0000",
       "bread": "2025-07-16 03:27:54 +0000"
     },
@@ -6437,6 +6440,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-07-20 04:09:59 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/misc/crafting/small_buffer": {
     "criteria": {
       "has_item": "2025-07-20 02:50:00 +0000"
@@ -6707,6 +6716,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-07-20 04:09:59 +0000"
+    },
+    "done": true
+  },
   "bbb:recipes/dark_oak_wall": {
     "criteria": {
       "has_logs": "2025-07-20 02:55:18 +0000"
@@ -6788,6 +6803,12 @@
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2025-07-20 03:45:14 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/sand": {
+    "criteria": {
+      "has_copper_block": "2025-07-20 04:09:59 +0000"
     },
     "done": true
   },

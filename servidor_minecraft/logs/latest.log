@@ -1507,3 +1507,62 @@ java.lang.RuntimeException: Attempted to load class com/keerdm/binocularsmod/cli
 [20Jul2025 04:01:55.881] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e2fb7a3a-51c5-3c5d-8d8d-df4e1427bb07 was loaded
 [20Jul2025 04:01:55.881] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Andrew_50G]
 [20Jul2025 04:01:55.882] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Andrew_50G]
+[20Jul2025 04:03:37.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Supinv__ tried to swim in lava to escape Zombie
+[20Jul2025 04:03:37.190] [Server thread/INFO] [tombstone/]: The player Supinv__ has successfully been saved
+[20Jul2025 04:03:41.681] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20Jul2025 04:03:41.929] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Supinv__]
+[20Jul2025 04:03:41.929] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Supinv__]
+[20Jul2025 04:04:32.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N30NP1X3l was slain by Zombie
+[20Jul2025 04:04:32.937] [Server thread/INFO] [tombstone/]: The player N30NP1X3l has successfully been saved
+[20Jul2025 04:04:34.127] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20Jul2025 04:04:34.262] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [N30NP1X3l]
+[20Jul2025 04:04:34.262] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [N30NP1X3l]
+[20Jul2025 04:05:39.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrew_50G fell from a high place
+[20Jul2025 04:05:39.291] [Server thread/INFO] [tombstone/]: The player Andrew_50G has successfully been saved
+[20Jul2025 04:05:40.768] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20Jul2025 04:05:40.892] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Andrew_50G]
+[20Jul2025 04:05:40.893] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Andrew_50G]
+[20Jul2025 04:06:38.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andrew_50G> xaero-waypoint:Shared Location:S:-454:72:25:6:false:0:Internal-overworld-waypoints
+[20Jul2025 04:06:44.745] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andrew_50G moved too quickly! -9.60092986881682,3.1661092609382138,0.4435051016734519
+[20Jul2025 04:06:44.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: unwey456 was slain by N30NP1X3l
+[20Jul2025 04:06:44.749] [Server thread/INFO] [tombstone/]: The player unwey456 has successfully been saved
+[20Jul2025 04:06:44.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andrew_50G> xaero-waypoint:Shared Location:S:-468:68:18:15:false:0:Internal-overworld-waypoints
+[20Jul2025 04:06:49.775] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20Jul2025 04:06:49.891] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [unwey456]
+[20Jul2025 04:06:49.892] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [unwey456]
+[20Jul2025 04:06:52.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Andrew_50G: The difficulty has been set to Peaceful]
+[20Jul2025 04:07:17.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Andrew_50G: The difficulty has been set to Hard]
+[20Jul2025 04:07:18.319] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: N30NP1X3l lost connection: Disconnected
+[20Jul2025 04:07:18.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N30NP1X3l left the game
+[20Jul2025 04:07:18.319] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of ae9115be-ccc4-3759-8703-b5a55177e635 was unloaded
+[20Jul2025 04:08:25.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrew_50G has made the advancement [The Hoarding Begins]
+[20Jul2025 04:09:24.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrew_50G has made the advancement [Magic Writing]
+[20Jul2025 04:09:42.052] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10362ms or 207 ticks behind
+[20Jul2025 04:09:42.158] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Supinv__ moved too quickly! 0.7945640032239183,1.252203340253729,9.978863240348705
+[20Jul2025 04:09:42.332] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: unwey456 moved wrongly!
+[20Jul2025 04:09:42.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andrew_50G moved too quickly! 6.893789544809863,0.0,7.52944790837461
+[20Jul2025 04:11:44.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andrew_50G moved too quickly! 3.588599442173404,0.0,9.526035813278842
+[20Jul2025 04:17:11.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrew_50G has made the advancement [Close Quarters]
+[20Jul2025 04:17:13.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Supinv__ has made the advancement ['X' Marks the Spot]
+[20Jul2025 04:17:40.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Supinv__ has reached the goal [Bone Crusher]
+[20Jul2025 04:18:22.004] [Worker-Main-8/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[20Jul2025 04:19:12.547] [Worker-Main-7/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[20Jul2025 04:19:12.593] [Worker-Main-6/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[20Jul2025 04:19:12.656] [Worker-Main-33/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[20Jul2025 04:19:36.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Supinv__ was slain by Zombie
+[20Jul2025 04:19:36.031] [Server thread/INFO] [tombstone/]: The player Supinv__ has successfully been saved
+[20Jul2025 04:19:39.829] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20Jul2025 04:19:40.023] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Supinv__]
+[20Jul2025 04:19:40.023] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Supinv__]
+[20Jul2025 04:20:38.885] [Worker-Main-32/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[20Jul2025 04:20:38.970] [Worker-Main-17/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[20Jul2025 04:21:00.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: unwey456 burned to death
+[20Jul2025 04:21:00.158] [Server thread/INFO] [tombstone/]: The player unwey456 has successfully been saved
+[20Jul2025 04:21:01.331] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20Jul2025 04:21:01.468] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [unwey456]
+[20Jul2025 04:21:01.468] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [unwey456]
+[20Jul2025 04:22:28.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Supinv__ was slain by Zombie
+[20Jul2025 04:22:28.654] [Server thread/INFO] [tombstone/]: The player Supinv__ has successfully been saved
+[20Jul2025 04:22:30.889] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20Jul2025 04:22:31.064] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Supinv__]
+[20Jul2025 04:22:31.064] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Supinv__]
