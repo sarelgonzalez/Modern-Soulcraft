@@ -6338,6 +6338,12 @@
     },
     "done": true
   },
+  "the_deeper_void:the_beginning_of_the_end": {
+    "criteria": {
+      "the_beginning_of_the_end_0": "2025-07-20 05:23:24 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_purple_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-07-20 02:45:31 +0000"
@@ -6908,6 +6914,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-07-20 05:23:24 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/black_kitchen_storage_cabinet": {
     "criteria": {
       "has_black_dye": "2025-07-20 04:31:25 +0000"
@@ -7283,6 +7295,12 @@
   "securitycraft:recipes/decorations/reinforced_purple_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-07-20 02:45:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-07-20 05:23:24 +0000"
     },
     "done": true
   },

@@ -3874,6 +3874,12 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/chestnut_fence": {
+    "criteria": {
+      "has_chestnut_planks": "2025-07-20 04:57:21 +0000"
+    },
+    "done": true
+  },
   "bbb:recipes/oak_beam": {
     "criteria": {
       "has_log": "2025-07-20 04:29:10 +0000"
@@ -3976,15 +3982,39 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/chestnut_button": {
+    "criteria": {
+      "has_chestnut_planks": "2025-07-20 04:57:21 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_window": {
+    "criteria": {
+      "has_chestnut_planks": "2025-07-20 04:57:21 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_jungle_hanging_sign": {
     "criteria": {
       "has_sign": "2025-07-20 04:40:09 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-07-20 04:59:39 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_acacia_hanging_sign": {
     "criteria": {
       "has_sign": "2025-07-20 04:40:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-07-20 04:59:39 +0000"
     },
     "done": true
   },
@@ -4060,6 +4090,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-07-20 04:59:39 +0000"
+    },
+    "done": true
+  },
   "bloomingnature:recipes/swamp_oak_window": {
     "criteria": {
       "has_swamp_oak_planks": "2025-07-20 04:42:10 +0000"
@@ -4093,6 +4129,18 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2025-07-20 04:23:25 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_fence_gate": {
+    "criteria": {
+      "has_chestnut_planks": "2025-07-20 04:57:21 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_boat": {
+    "criteria": {
+      "has_chestnut_planks": "2025-07-20 04:57:21 +0000"
     },
     "done": true
   },
@@ -4240,6 +4288,12 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/chestnut_slab": {
+    "criteria": {
+      "has_chestnut_planks": "2025-07-20 04:57:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-07-20 04:23:25 +0000"
@@ -4258,6 +4312,12 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/chestnut_hanging_sign": {
+    "criteria": {
+      "has_chestnut_planks": "2025-07-20 04:57:21 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/sc_manual": {
     "criteria": {
       "has_wood": "2025-07-20 04:29:10 +0000"
@@ -4267,6 +4327,12 @@
   "handcrafted:recipes/misc/phantom_trophy": {
     "criteria": {
       "has_phantom_trophy": "2025-07-20 04:20:28 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_stairs": {
+    "criteria": {
+      "has_chestnut_planks": "2025-07-20 04:57:21 +0000"
     },
     "done": true
   },
@@ -4285,6 +4351,12 @@
   "decorative_blocks:recipes/building_blocks/cherry_palisade": {
     "criteria": {
       "has_log": "2025-07-20 04:32:53 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_sign": {
+    "criteria": {
+      "has_chestnut_planks": "2025-07-20 04:57:21 +0000"
     },
     "done": true
   },
@@ -4342,6 +4414,12 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/chestnut_chest_boat": {
+    "criteria": {
+      "has_chestnut_planks": "2025-07-20 04:57:21 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/cooked_rice": {
     "criteria": {
       "has_rice": "2025-07-20 04:44:53 +0000"
@@ -4366,6 +4444,12 @@
     },
     "done": true
   },
+  "bloomingnature:recipes/chestnut_door": {
+    "criteria": {
+      "has_chestnut_planks": "2025-07-20 04:57:21 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_bamboo_hanging_sign": {
     "criteria": {
       "has_sign": "2025-07-20 04:40:09 +0000"
@@ -4381,6 +4465,12 @@
   "ecologics:recipes/food/mushroom_stew_from_coconut_husk": {
     "criteria": {
       "has_red_mushroom": "2025-07-20 04:14:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-07-20 04:59:39 +0000"
     },
     "done": true
   },
@@ -4435,6 +4525,12 @@
   "securitycraft:recipes/tools/universal_owner_changer": {
     "criteria": {
       "has_name_tag": "2025-07-20 04:17:16 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_trapdoor": {
+    "criteria": {
+      "has_chestnut_planks": "2025-07-20 04:57:21 +0000"
     },
     "done": true
   },
