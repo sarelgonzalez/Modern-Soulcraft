@@ -2600,3 +2600,8 @@ java.lang.RuntimeException: Attempted to load class com/keerdm/binocularsmod/cli
 [20Jul2025 05:32:29.015] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [20Jul2025 05:32:29.128] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [inquisitor1102]
 [20Jul2025 05:32:29.129] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [inquisitor1102]
+[20Jul2025 05:37:01.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Andrew_50G: Set own game mode to Creative Mode]
+[20Jul2025 05:38:49.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Andrew_50G: Set own game mode to Survival Mode]
+[20Jul2025 05:43:29.319] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 1312921789, path: b767eef3-35aa-47fd-9422-84aa9f0375d3/air, elements: {}} attempted to update empty stack 0 air
+[20Jul2025 05:43:29.319] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 300106545, path: b767eef3-35aa-47fd-9422-84aa9f0375d3/eaglescope/air, elements: {}} attempted to update empty stack 0 air
+[20Jul2025 05:44:06.461] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 1828573796, path: b767eef3-35aa-47fd-9422-84aa9f0375d3/air, elements: {}} attempted to update empty stack 0 air
