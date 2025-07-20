@@ -1465,3 +1465,45 @@ java.lang.RuntimeException: Attempted to load class com/keerdm/binocularsmod/cli
 [20Jul2025 03:51:25.215] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [N30NP1X3l]
 [20Jul2025 03:52:42.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N30NP1X3l was slain by unwey456
 [20Jul2025 03:52:42.292] [Server thread/INFO] [tombstone/]: The player N30NP1X3l has successfully been saved
+[20Jul2025 03:52:43.635] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20Jul2025 03:52:43.824] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [N30NP1X3l]
+[20Jul2025 03:52:43.824] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [N30NP1X3l]
+[20Jul2025 03:53:05.373] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-26, y=105, z=-9} BlockPos{x=-2, y=106, z=-10}
+[20Jul2025 03:54:14.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Andrew_50G: Applied 4.0 damage to unwey456]
+[20Jul2025 03:54:32.507] [Server thread/WARN] [pointblank/]: Skipping loading of outdated or expired slot mappings.
+[20Jul2025 03:54:41.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Andrew_50G: Applied 4.0 damage to unwey456]
+[20Jul2025 03:55:57.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Andrew_50G: Applied 4.0 damage to unwey456]
+[20Jul2025 03:56:33.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Andrew_50G: Applied 4.0 damage to unwey456]
+[20Jul2025 03:57:24.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N30NP1X3l fell while climbing
+[20Jul2025 03:57:24.067] [Server thread/INFO] [tombstone/]: The player N30NP1X3l has successfully been saved
+[20Jul2025 03:57:25.232] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20Jul2025 03:57:25.367] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [N30NP1X3l]
+[20Jul2025 03:57:25.367] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [N30NP1X3l]
+[20Jul2025 03:58:17.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Andrew_50G: Applied 4.0 damage to N30NP1X3l]
+[20Jul2025 03:58:18.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Andrew_50G: Applied 4.0 damage to N30NP1X3l]
+[20Jul2025 03:58:24.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N30NP1X3l burned to death
+[20Jul2025 03:58:24.861] [Server thread/INFO] [tombstone/]: The player N30NP1X3l has successfully been saved
+[20Jul2025 03:58:26.287] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20Jul2025 03:58:26.447] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [N30NP1X3l]
+[20Jul2025 03:58:26.448] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [N30NP1X3l]
+[20Jul2025 03:59:14.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <inquisitor1102> xaero-waypoint:puente:P:108:72:901:14:false:0:Internal-overworld-waypoints
+[20Jul2025 03:59:24.861] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/1159266, l='ServerLevel[world]', x=205.50, y=72.00, z=840.50]
+[20Jul2025 04:00:15.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N30NP1X3l burned to death
+[20Jul2025 04:00:15.381] [Server thread/INFO] [tombstone/]: The player N30NP1X3l has successfully been saved
+[20Jul2025 04:00:16.477] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20Jul2025 04:00:16.633] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [N30NP1X3l]
+[20Jul2025 04:00:16.634] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [N30NP1X3l]
+[20Jul2025 04:00:53.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N30NP1X3l was slain by Zombie
+[20Jul2025 04:00:55.291] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20Jul2025 04:00:55.443] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [N30NP1X3l]
+[20Jul2025 04:00:55.443] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [N30NP1X3l]
+[20Jul2025 04:01:39.180] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andrew_50G lost connection: Timed out
+[20Jul2025 04:01:39.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrew_50G left the game
+[20Jul2025 04:01:39.181] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e2fb7a3a-51c5-3c5d-8d8d-df4e1427bb07 was unloaded
+[20Jul2025 04:01:55.740] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Andrew_50G[/10.147.17.22:56886] logged in with entity id 1195975 at (-3.6901299628521964, 80.0, -41.23970545970274)
+[20Jul2025 04:01:55.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrew_50G joined the game
+[20Jul2025 04:01:55.819] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Andrew_50G
+[20Jul2025 04:01:55.880] [Netty Epoll Server IO #2/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Andrew_50G
+[20Jul2025 04:01:55.881] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e2fb7a3a-51c5-3c5d-8d8d-df4e1427bb07 was loaded
+[20Jul2025 04:01:55.881] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Andrew_50G]
+[20Jul2025 04:01:55.882] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Andrew_50G]
