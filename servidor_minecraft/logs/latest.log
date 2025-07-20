@@ -839,3 +839,36 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [20Jul2025 02:12:51.068] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [inquisitor1102]
 [20Jul2025 02:12:51.068] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [inquisitor1102]
 [20Jul2025 02:14:52.844] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 4.863 ms. 5156/5210 recipes are parallelized.
+[20Jul2025 02:22:08.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N30NP1X3l has made the advancement [A Strange Grave Dust]
+[20Jul2025 02:26:12.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: inquisitor1102 moved too quickly! 4.288643887728178,1.0,9.145489928421455
+[20Jul2025 02:27:43.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <inquisitor1102> xaero-waypoint:barco destruido:B:197:63:15:8:false:0:Internal-overworld-waypoints
+[20Jul2025 02:31:18.747] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[20Jul2025 02:31:18.836] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[20Jul2025 02:31:25.302] [Worker-Main-19/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[20Jul2025 02:31:25.303] [Worker-Main-19/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[20Jul2025 02:31:27.817] [Worker-Main-17/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[20Jul2025 02:31:27.818] [Worker-Main-17/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[20Jul2025 02:34:24.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N30NP1X3l burned to death
+[20Jul2025 02:34:24.387] [Server thread/INFO] [tombstone/]: The player N30NP1X3l has successfully been saved
+[20Jul2025 02:34:25.880] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20Jul2025 02:34:26.030] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [N30NP1X3l]
+[20Jul2025 02:34:26.030] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [N30NP1X3l]
+[20Jul2025 02:36:07.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inquisitor1102 has made the advancement [Not Today, Thank You]
+[20Jul2025 02:36:15.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <unwey456> cocholandia
+[20Jul2025 02:37:40.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inquisitor1102 has made the advancement [Funeral Theft]
+[20Jul2025 02:45:00.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N30NP1X3l burned to death
+[20Jul2025 02:45:00.164] [Server thread/INFO] [tombstone/]: The player N30NP1X3l has successfully been saved
+[20Jul2025 02:45:01.563] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20Jul2025 02:45:01.686] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [N30NP1X3l]
+[20Jul2025 02:45:01.687] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [N30NP1X3l]
+[20Jul2025 02:45:31.564] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: unwey456 moved too quickly! 0.5294959324106543,1.747796659746271,-9.86319177456393
+[20Jul2025 02:45:35.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: unwey456 was slain by Zombie
+[20Jul2025 02:45:35.475] [Server thread/INFO] [tombstone/]: The player unwey456 has successfully been saved
+[20Jul2025 02:45:38.182] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20Jul2025 02:45:38.254] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [unwey456]
+[20Jul2025 02:45:38.254] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [unwey456]
+[20Jul2025 02:51:29.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N30NP1X3l was doomed to fall by inquisitor1102
+[20Jul2025 02:51:29.264] [Server thread/INFO] [tombstone/]: The player N30NP1X3l has successfully been saved
+[20Jul2025 02:51:30.411] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20Jul2025 02:51:30.523] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [N30NP1X3l]
+[20Jul2025 02:51:30.523] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [N30NP1X3l]
