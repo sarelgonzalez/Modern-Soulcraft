@@ -4237,6 +4237,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-07-20 03:25:44 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_spruce_hanging_sign": {
     "criteria": {
       "has_sign": "2025-07-20 02:19:42 +0000"
@@ -4246,6 +4252,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-07-20 02:28:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-07-20 03:20:58 +0000"
     },
     "done": true
   },
@@ -4312,6 +4324,12 @@
   "securitycraft:recipes/decorations/secret_dark_oak_hanging_sign": {
     "criteria": {
       "has_sign": "2025-07-20 02:19:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/linked_controller": {
+    "criteria": {
+      "has_item": "2025-07-20 03:26:29 +0000"
     },
     "done": true
   },
