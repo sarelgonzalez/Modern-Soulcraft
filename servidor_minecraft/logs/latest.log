@@ -2605,3 +2605,216 @@ java.lang.RuntimeException: Attempted to load class com/keerdm/binocularsmod/cli
 [20Jul2025 05:43:29.319] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 1312921789, path: b767eef3-35aa-47fd-9422-84aa9f0375d3/air, elements: {}} attempted to update empty stack 0 air
 [20Jul2025 05:43:29.319] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 300106545, path: b767eef3-35aa-47fd-9422-84aa9f0375d3/eaglescope/air, elements: {}} attempted to update empty stack 0 air
 [20Jul2025 05:44:06.461] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 1828573796, path: b767eef3-35aa-47fd-9422-84aa9f0375d3/air, elements: {}} attempted to update empty stack 0 air
+[20Jul2025 05:44:54.620] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 1284371228, path: 51e6cbfb-7a91-4f71-809b-2c18783f1aa5/air, elements: {}} attempted to update empty stack 0 air
+[20Jul2025 05:44:54.620] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 1927698968, path: 51e6cbfb-7a91-4f71-809b-2c18783f1aa5/air, elements: {}} attempted to update empty stack 0 air
+[20Jul2025 05:44:54.620] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 686378938, path: 51e6cbfb-7a91-4f71-809b-2c18783f1aa5/air, elements: {}} attempted to update empty stack 0 air
+[20Jul2025 05:47:00.510] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: unwey456 lost connection: Disconnected
+[20Jul2025 05:47:00.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: unwey456 left the game
+[20Jul2025 05:47:00.510] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9b5cbb27-0661-3c24-9995-4270e55597c0 was unloaded
+[20Jul2025 05:50:11.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: inquisitor1102 moved wrongly!
+[20Jul2025 05:52:06.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrew_50G has reached the goal [To be or not to be]
+[20Jul2025 05:54:31.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: inquisitor1102 moved wrongly!
+[20Jul2025 05:55:04.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inquisitor1102 was slain by Zombie
+[20Jul2025 05:55:04.028] [Server thread/INFO] [tombstone/]: The player inquisitor1102 has successfully been saved
+[20Jul2025 05:55:05.425] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20Jul2025 05:55:05.574] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [inquisitor1102]
+[20Jul2025 05:55:05.574] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [inquisitor1102]
+[20Jul2025 05:58:07.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inquisitor1102 has made the advancement [Not even afraid of death]
+[20Jul2025 05:58:07.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inquisitor1102 has made the advancement [Back to childhood]
+[20Jul2025 05:58:33.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andrew_50G moved wrongly!
+[20Jul2025 05:58:33.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrew_50G was slain by inquisitor1102
+[20Jul2025 05:58:33.075] [Server thread/INFO] [tombstone/]: The player Andrew_50G has successfully been saved
+[20Jul2025 05:58:40.463] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20Jul2025 05:58:40.614] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Andrew_50G]
+[20Jul2025 05:58:40.614] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Andrew_50G]
+[20Jul2025 05:58:55.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inquisitor1102 was slain by Zombie
+[20Jul2025 05:58:55.073] [Server thread/INFO] [tombstone/]: The player inquisitor1102 has successfully been saved
+[20Jul2025 05:58:56.151] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20Jul2025 05:58:56.335] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [inquisitor1102]
+[20Jul2025 05:58:56.336] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [inquisitor1102]
+[20Jul2025 05:59:30.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inquisitor1102 was slain by Zombie
+[20Jul2025 05:59:30.531] [Server thread/INFO] [tombstone/]: The player inquisitor1102 has successfully been saved
+[20Jul2025 05:59:31.836] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20Jul2025 05:59:32.078] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [inquisitor1102]
+[20Jul2025 05:59:32.078] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [inquisitor1102]
+[20Jul2025 05:59:44.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrew_50G was slain by Zombie
+[20Jul2025 05:59:44.935] [Server thread/INFO] [tombstone/]: The player Andrew_50G has successfully been saved
+[20Jul2025 05:59:46.315] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20Jul2025 05:59:46.461] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Andrew_50G]
+[20Jul2025 05:59:46.461] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Andrew_50G]
+[20Jul2025 06:01:11.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrew_50G fell from a high place
+[20Jul2025 06:01:11.672] [Server thread/INFO] [tombstone/]: The player Andrew_50G has successfully been saved
+[20Jul2025 06:01:13.570] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20Jul2025 06:01:13.720] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Andrew_50G]
+[20Jul2025 06:01:13.720] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Andrew_50G]
+[20Jul2025 06:02:19.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inquisitor1102 was slain by Zombie
+[20Jul2025 06:02:19.324] [Server thread/INFO] [tombstone/]: The player inquisitor1102 has successfully been saved
+[20Jul2025 06:02:20.872] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20Jul2025 06:02:21.114] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [inquisitor1102]
+[20Jul2025 06:02:21.114] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [inquisitor1102]
+[20Jul2025 06:11:01.349] [Worker-Main-32/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[20Jul2025 06:11:01.350] [Worker-Main-32/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[20Jul2025 06:11:01.369] [Worker-Main-32/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[20Jul2025 06:11:01.385] [Worker-Main-32/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[20Jul2025 06:11:01.402] [Worker-Main-32/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[20Jul2025 06:11:01.411] [Worker-Main-32/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[20Jul2025 06:11:01.424] [Worker-Main-32/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[20Jul2025 06:11:01.424] [Worker-Main-32/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[20Jul2025 06:11:01.425] [Worker-Main-32/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[20Jul2025 06:11:01.425] [Worker-Main-32/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[20Jul2025 06:11:01.425] [Worker-Main-32/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[20Jul2025 06:11:01.426] [Worker-Main-32/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[20Jul2025 06:11:01.440] [Worker-Main-32/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[20Jul2025 06:11:01.441] [Worker-Main-32/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[20Jul2025 06:11:01.465] [Worker-Main-32/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[20Jul2025 06:11:01.479] [Worker-Main-32/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[20Jul2025 06:11:01.491] [Worker-Main-32/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[20Jul2025 06:11:01.496] [Worker-Main-32/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[20Jul2025 06:11:01.506] [Worker-Main-32/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[20Jul2025 06:11:01.506] [Worker-Main-32/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[20Jul2025 06:11:01.506] [Worker-Main-32/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[20Jul2025 06:11:01.506] [Worker-Main-32/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[20Jul2025 06:11:01.506] [Worker-Main-32/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[20Jul2025 06:11:01.506] [Worker-Main-32/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[20Jul2025 06:16:16.865] [Server thread/INFO] [BinocularsItem/]: BinocularsItem use() called. Hand: MAIN_HAND, Player: Andrew_50G
+[20Jul2025 06:16:16.865] [Server thread/INFO] [BinocularsItem/]: Current item usage state: false
+[20Jul2025 06:16:16.865] [Server thread/INFO] [BinocularsItem/]: Sending network message from server
+[20Jul2025 06:16:16.866] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/keerdm/binocularsmod/client/BinocularsOverlay for invalid dist DEDICATED_SERVER
+[20Jul2025 06:16:16.866] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemPacket@921aaf9, suppressing error
+java.lang.RuntimeException: Attempted to load class com/keerdm/binocularsmod/client/BinocularsOverlay for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.4.2.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at com.keerdm.binocularsmod.item.BinocularsItem.m_7203_(BinocularsItem.java:53) ~[binocularsmod-1.02.jar%23307!/:1.02]
+	at net.minecraft.world.item.ItemStack.m_41682_(ItemStack.java:275) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameMode.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerGamePacketListenerImpl.java:1085) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(ServerboundUseItemPacket.java:29) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(ServerboundUseItemPacket.java:7) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[20Jul2025 06:16:35.052] [Worker-Main-7/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[20Jul2025 06:16:35.141] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=78, y=40, z=556}
+[20Jul2025 06:16:35.144] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=79, y=40, z=555}
+[20Jul2025 06:16:35.144] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=72, y=40, z=553}
+[20Jul2025 06:16:35.144] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=81, y=40, z=555}
+[20Jul2025 06:16:35.145] [Worker-Main-9/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=83, y=45, z=555}
+[20Jul2025 06:16:35.210] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[20Jul2025 06:16:35.233] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[20Jul2025 06:16:35.235] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=82, y=45, z=544}
+[20Jul2025 06:16:35.235] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=82, y=40, z=545}
+[20Jul2025 06:17:00.714] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[20Jul2025 06:17:00.724] [Worker-Main-18/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[20Jul2025 06:17:03.337] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=78, y=40, z=556}
+[20Jul2025 06:17:03.337] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=79, y=40, z=555}
+[20Jul2025 06:17:03.337] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=81, y=40, z=555}
+[20Jul2025 06:17:03.337] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=83, y=45, z=555}
+[20Jul2025 06:17:05.977] [Worker-Main-33/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[20Jul2025 06:17:06.009] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=78, y=40, z=556}
+[20Jul2025 06:17:06.009] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=79, y=40, z=555}
+[20Jul2025 06:17:06.010] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=81, y=40, z=555}
+[20Jul2025 06:17:06.010] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=83, y=45, z=555}
+[20Jul2025 06:17:06.010] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=82, y=45, z=544}
+[20Jul2025 06:17:06.010] [Worker-Main-24/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=82, y=40, z=545}
+[20Jul2025 06:17:06.040] [Worker-Main-20/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[20Jul2025 06:17:06.067] [Worker-Main-33/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[20Jul2025 06:17:06.193] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=82, y=45, z=544}
+[20Jul2025 06:17:06.193] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=82, y=40, z=545}
+[20Jul2025 06:17:06.196] [Worker-Main-5/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[20Jul2025 06:17:06.196] [Worker-Main-5/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[20Jul2025 06:18:26.377] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=72, y=40, z=553}
+[20Jul2025 06:19:45.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inquisitor1102 has made the advancement [Mutual Aid]
+[20Jul2025 06:19:45.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inquisitor1102 has reached the goal [The long arm of the law]
+[20Jul2025 06:22:16.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andrew_50G moved too quickly! 4.339203548214812,0.0,9.027207155608608
+[20Jul2025 06:22:20.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrew_50G has made the advancement [Mutual Aid]
+[20Jul2025 06:24:02.761] [Server thread/INFO] [BinocularsItem/]: BinocularsItem use() called. Hand: MAIN_HAND, Player: Andrew_50G
+[20Jul2025 06:24:02.761] [Server thread/INFO] [BinocularsItem/]: Current item usage state: false
+[20Jul2025 06:24:02.762] [Server thread/INFO] [BinocularsItem/]: Sending network message from server
+[20Jul2025 06:24:02.762] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/keerdm/binocularsmod/client/BinocularsOverlay for invalid dist DEDICATED_SERVER
+[20Jul2025 06:24:02.763] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemPacket@afecec5, suppressing error
+java.lang.RuntimeException: Attempted to load class com/keerdm/binocularsmod/client/BinocularsOverlay for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.4.2.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at com.keerdm.binocularsmod.item.BinocularsItem.m_7203_(BinocularsItem.java:53) ~[binocularsmod-1.02.jar%23307!/:1.02]
+	at net.minecraft.world.item.ItemStack.m_41682_(ItemStack.java:275) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameMode.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerGamePacketListenerImpl.java:1085) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(ServerboundUseItemPacket.java:29) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(ServerboundUseItemPacket.java:7) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[20Jul2025 06:24:03.179] [Server thread/INFO] [BinocularsItem/]: BinocularsItem use() called. Hand: MAIN_HAND, Player: Andrew_50G
+[20Jul2025 06:24:03.179] [Server thread/INFO] [BinocularsItem/]: Current item usage state: false
+[20Jul2025 06:24:03.179] [Server thread/INFO] [BinocularsItem/]: Sending network message from server
+[20Jul2025 06:24:03.180] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/keerdm/binocularsmod/client/BinocularsOverlay for invalid dist DEDICATED_SERVER
+[20Jul2025 06:24:03.180] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemPacket@50b571fe, suppressing error
+java.lang.RuntimeException: Attempted to load class com/keerdm/binocularsmod/client/BinocularsOverlay for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.4.2.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at com.keerdm.binocularsmod.item.BinocularsItem.m_7203_(BinocularsItem.java:53) ~[binocularsmod-1.02.jar%23307!/:1.02]
+	at net.minecraft.world.item.ItemStack.m_41682_(ItemStack.java:275) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameMode.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerGamePacketListenerImpl.java:1085) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(ServerboundUseItemPacket.java:29) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(ServerboundUseItemPacket.java:7) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]

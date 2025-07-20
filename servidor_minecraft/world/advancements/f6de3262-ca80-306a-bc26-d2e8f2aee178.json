@@ -1777,7 +1777,8 @@
     "criteria": {
       "cooked_porkchop": "2025-07-20 04:05:53 +0000",
       "cooked_beef": "2025-07-16 04:12:11 +0000",
-      "bread": "2025-07-16 03:27:54 +0000"
+      "bread": "2025-07-16 03:27:54 +0000",
+      "golden_apple": "2025-07-20 05:57:53 +0000"
     },
     "done": false
   },
@@ -6278,6 +6279,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2025-07-20 05:53:41 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
     "criteria": {
       "has_moss": "2025-07-20 03:29:01 +0000"
@@ -6407,6 +6414,12 @@
   "refurbished_furniture:recipes/misc/constructing/warped_storage_jar": {
     "criteria": {
       "has_glass": "2025-07-20 02:45:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/smoked_ham": {
+    "criteria": {
+      "has_ham": "2025-07-20 05:53:41 +0000"
     },
     "done": true
   },
@@ -6704,6 +6717,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-07-20 05:58:07 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/transportation/conductor_vent_from_industrial_iron_block_stonecutting": {
     "criteria": {
       "has_industrial_iron_block": "2025-07-20 02:50:00 +0000"
@@ -6827,6 +6846,12 @@
   "minecraft:recipes/building_blocks/dye_black_carpet": {
     "criteria": {
       "has_needed_dye": "2025-07-20 04:31:25 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mutual_aid": {
+    "criteria": {
+      "coded_trigger": "2025-07-20 06:19:45 +0000"
     },
     "done": true
   },
@@ -7136,6 +7161,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-07-20 05:58:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-07-20 02:45:31 +0000"
@@ -7301,6 +7332,12 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_desk": {
     "criteria": {
       "has_dark_oak_planks": "2025-07-20 03:45:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_reach": {
+    "criteria": {
+      "has_magic_scroll": "2025-07-20 06:19:45 +0000"
     },
     "done": true
   },
