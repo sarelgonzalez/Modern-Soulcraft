@@ -4499,6 +4499,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-07-18 06:19:19 +0000"
+    },
+    "done": true
+  },
   "bbb:recipes/spruce_trim": {
     "criteria": {
       "has_block": "2025-07-18 05:54:23 +0000"
@@ -4616,6 +4622,12 @@
   "the_deep_void:shining_darkness_in_deepest_parts": {
     "criteria": {
       "shining_darkness_in_deepest_parts_0": "2025-07-18 05:51:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-07-18 06:23:58 +0000"
     },
     "done": true
   },
@@ -4802,6 +4814,12 @@
   "createdeco:recipes/decorations/industrial_iron_support": {
     "criteria": {
       "has_item": "2025-07-18 05:52:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-07-18 06:23:58 +0000"
     },
     "done": true
   },
