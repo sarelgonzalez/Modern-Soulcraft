@@ -6530,6 +6530,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-07-20 05:32:14 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_drawer": {
     "criteria": {
       "has_dark_oak_drawer": "2025-07-20 03:45:14 +0000"

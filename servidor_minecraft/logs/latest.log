@@ -2579,3 +2579,24 @@ java.lang.RuntimeException: Attempted to load class com/keerdm/binocularsmod/cli
 [20Jul2025 05:16:00.245] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=-188, y=95, z=-7}
 [20Jul2025 05:21:54.066] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-46, y=87, z=25} BlockPos{x=-3, y=108, z=-14}
 [20Jul2025 05:23:24.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inquisitor1102 has made the advancement [Ice Bucket Challenge]
+[20Jul2025 05:23:58.316] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andrew_50G moved too quickly! -0.5150275442087806,0.0,10.042948459821645
+[20Jul2025 05:26:24.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <inquisitor1102> xaero-waypoint:CIUDAD:C:-445:72:-8:6:false:0:Internal-overworld-waypoints
+[20Jul2025 05:29:04.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andrew_50G moved wrongly!
+[20Jul2025 05:31:49.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inquisitor1102 was blown up by Andrew_50G
+[20Jul2025 05:31:49.920] [Server thread/INFO] [tombstone/]: The player inquisitor1102 has successfully been saved
+[20Jul2025 05:31:51.313] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20Jul2025 05:31:51.434] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [inquisitor1102]
+[20Jul2025 05:31:51.434] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [inquisitor1102]
+[20Jul2025 05:32:14.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inquisitor1102 has reached the goal [Chain Death]
+[20Jul2025 05:32:14.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inquisitor1102 was blown up by Andrew_50G
+[20Jul2025 05:32:14.123] [Server thread/INFO] [tombstone/]: The player inquisitor1102 has successfully been saved
+[20Jul2025 05:32:14.210] [Server thread/WARN] [pointblank/]: Mismatching item in slot 1
+[20Jul2025 05:32:15.258] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20Jul2025 05:32:15.415] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [inquisitor1102]
+[20Jul2025 05:32:15.415] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [inquisitor1102]
+[20Jul2025 05:32:27.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inquisitor1102 was blown up by Andrew_50G
+[20Jul2025 05:32:27.819] [Server thread/INFO] [tombstone/]: The player inquisitor1102 has successfully been saved
+[20Jul2025 05:32:27.938] [Server thread/WARN] [pointblank/]: Mismatching item in slot 1
+[20Jul2025 05:32:29.015] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20Jul2025 05:32:29.128] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [inquisitor1102]
+[20Jul2025 05:32:29.129] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [inquisitor1102]
