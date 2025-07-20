@@ -5978,6 +5978,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/black_kitchen_sink": {
+    "criteria": {
+      "has_black_dye": "2025-07-20 04:31:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_ceiling_light": {
+    "criteria": {
+      "has_dye": "2025-07-20 04:31:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-20 02:45:31 +0000"
@@ -5993,6 +6005,12 @@
   "securitycraft:recipes/decorations/reinforced_glass_pane": {
     "criteria": {
       "has_glass": "2025-07-20 02:45:31 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/warped_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-07-20 04:31:25 +0000"
     },
     "done": true
   },
@@ -6044,6 +6062,24 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/acacia_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-07-20 04:31:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_toaster": {
+    "criteria": {
+      "has_dye": "2025-07-20 04:31:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2025-07-20 04:31:25 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_crate": {
     "criteria": {
       "has_dark_oak_planks": "2025-07-20 03:45:14 +0000"
@@ -6053,6 +6089,30 @@
   "createdeco:recipes/decorations/industrial_iron_hull_from_stonecutting": {
     "criteria": {
       "has_item": "2025-07-20 02:50:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_oak_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-07-20 04:31:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_stove": {
+    "criteria": {
+      "has_black_dye": "2025-07-20 04:31:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_microwave": {
+    "criteria": {
+      "has_dye": "2025-07-20 04:31:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_kitchen_cabinetry": {
+    "criteria": {
+      "has_black_dye": "2025-07-20 04:31:25 +0000"
     },
     "done": true
   },
@@ -6092,6 +6152,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/crimson_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2025-07-20 04:31:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2025-07-20 04:31:25 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-07-20 02:45:31 +0000"
@@ -6116,6 +6188,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/mangrove_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-07-20 04:31:25 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_orange_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-07-20 02:45:31 +0000"
@@ -6134,6 +6212,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/black_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-20 04:31:25 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/hot_cocoa": {
     "criteria": {
       "has_any_ingredient": "2025-07-20 03:28:10 +0000"
@@ -6143,6 +6227,12 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-20 02:45:31 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2025-07-20 04:31:25 +0000"
     },
     "done": true
   },
@@ -6161,6 +6251,18 @@
   "securitycraft:recipes/decorations/reinforced_cyan_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-07-20 02:45:31 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2025-07-20 04:31:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2025-07-20 04:31:25 +0000"
     },
     "done": true
   },
@@ -6224,6 +6326,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/black_bath": {
+    "criteria": {
+      "has_black_dye": "2025-07-20 04:31:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_lightswitch": {
+    "criteria": {
+      "has_black_dye": "2025-07-20 04:31:25 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_purple_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-07-20 02:45:31 +0000"
@@ -6248,6 +6362,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/cherry_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-07-20 04:31:25 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_lime_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-07-20 02:45:31 +0000"
@@ -6257,6 +6377,12 @@
   "tombstone:adventure/funeral_theft": {
     "criteria": {
       "coded_trigger": "2025-07-20 02:37:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_microwave": {
+    "criteria": {
+      "has_black_dye": "2025-07-20 04:31:25 +0000"
     },
     "done": true
   },
@@ -6296,6 +6422,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/birch_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-07-20 04:31:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-20 04:31:25 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_red_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-20 02:45:31 +0000"
@@ -6311,6 +6449,18 @@
   "bbb:recipes/dark_oak_trim": {
     "criteria": {
       "has_block": "2025-07-20 03:45:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-20 04:31:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_range_hood": {
+    "criteria": {
+      "has_dye": "2025-07-20 04:31:25 +0000"
     },
     "done": true
   },
@@ -6341,6 +6491,12 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_table": {
     "criteria": {
       "has_dark_oak_planks": "2025-07-20 03:45:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-20 04:31:25 +0000"
     },
     "done": true
   },
@@ -6410,6 +6566,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2025-07-20 04:31:25 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_chair": {
     "criteria": {
       "has_dark_oak_chair": "2025-07-20 03:45:14 +0000"
@@ -6428,9 +6590,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/dark_fridge": {
+    "criteria": {
+      "has_black_dye": "2025-07-20 04:31:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2025-07-20 04:31:25 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_desk": {
     "criteria": {
       "has_dark_oak_desk": "2025-07-20 03:45:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/crimson_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-07-20 04:31:25 +0000"
     },
     "done": true
   },
@@ -6446,9 +6626,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/cherry_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2025-07-20 04:31:25 +0000"
+    },
+    "done": true
+  },
   "railways:recipes/misc/crafting/small_buffer": {
     "criteria": {
       "has_item": "2025-07-20 02:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2025-07-20 04:31:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-20 04:31:25 +0000"
     },
     "done": true
   },
@@ -6473,6 +6671,12 @@
   "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-20 02:45:31 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2025-07-20 04:31:25 +0000"
     },
     "done": true
   },
@@ -6503,6 +6707,12 @@
   "securitycraft:recipes/building_blocks/reinforced_black_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-20 02:45:31 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_range_hood": {
+    "criteria": {
+      "has_black_dye": "2025-07-20 04:31:25 +0000"
     },
     "done": true
   },
@@ -6560,6 +6770,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/dark_toaster": {
+    "criteria": {
+      "has_black_dye": "2025-07-20 04:31:25 +0000"
+    },
+    "done": true
+  },
   "bbb:recipes/dark_oak_frame": {
     "criteria": {
       "has_planks": "2025-07-20 02:55:18 +0000"
@@ -6578,9 +6794,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-20 04:28:35 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-20 02:45:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-20 04:31:25 +0000"
     },
     "done": true
   },
@@ -6602,9 +6830,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/warped_dark_ceiling_fan": {
+    "criteria": {
+      "has_black_dye": "2025-07-20 04:31:25 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_dining_bench": {
     "criteria": {
       "has_dark_oak_dining_bench": "2025-07-20 03:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-20 04:31:25 +0000"
     },
     "done": true
   },
@@ -6614,9 +6854,33 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/dark_ceiling_light": {
+    "criteria": {
+      "has_black_dye": "2025-07-20 04:31:25 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-07-20 02:45:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-07-20 04:28:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-20 04:31:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_toilet": {
+    "criteria": {
+      "has_black_dye": "2025-07-20 04:31:25 +0000"
     },
     "done": true
   },
@@ -6638,6 +6902,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/black_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-20 04:31:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_black_dye": "2025-07-20 04:31:25 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_green_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-20 02:45:31 +0000"
@@ -6656,6 +6932,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2025-07-20 04:31:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-07-20 04:28:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-07-20 02:56:37 +0000"
@@ -6668,15 +6956,39 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/black_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-20 04:31:25 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_light_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-07-20 02:45:31 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/black_kitchen_drawer": {
+    "criteria": {
+      "has_black_dye": "2025-07-20 04:31:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-07-20 04:28:30 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_green_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-07-20 02:45:31 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/spruce_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-07-20 04:31:25 +0000"
     },
     "done": true
   },
@@ -6722,6 +7034,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-07-20 04:28:30 +0000"
+    },
+    "done": true
+  },
   "bbb:recipes/dark_oak_wall": {
     "criteria": {
       "has_logs": "2025-07-20 02:55:18 +0000"
@@ -6731,6 +7049,18 @@
   "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-07-20 03:04:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/jungle_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-07-20 04:31:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_fridge": {
+    "criteria": {
+      "has_dye": "2025-07-20 04:31:25 +0000"
     },
     "done": true
   },
@@ -6758,9 +7088,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/black_basin": {
+    "criteria": {
+      "has_black_dye": "2025-07-20 04:31:25 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_magenta_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-07-20 02:45:31 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/oak_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-07-20 04:31:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_toilet": {
+    "criteria": {
+      "has_dye": "2025-07-20 04:31:25 +0000"
     },
     "done": true
   },
@@ -6800,6 +7148,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/black_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-20 04:31:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2025-07-20 03:45:14 +0000"
@@ -6830,9 +7184,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/black_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-20 04:31:25 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_yellow_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-07-20 02:45:31 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_stove": {
+    "criteria": {
+      "has_dye": "2025-07-20 04:31:25 +0000"
     },
     "done": true
   },
@@ -6848,9 +7214,27 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/black_placard_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-20 04:31:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_lightswitch": {
+    "criteria": {
+      "has_dye": "2025-07-20 04:31:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-07-20 02:55:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-07-20 04:31:14 +0000"
     },
     "done": true
   },
@@ -6899,6 +7283,18 @@
   "securitycraft:recipes/decorations/reinforced_purple_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-07-20 02:45:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2025-07-20 04:31:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-20 04:31:25 +0000"
     },
     "done": true
   },

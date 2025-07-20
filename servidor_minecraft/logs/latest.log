@@ -1566,3 +1566,311 @@ java.lang.RuntimeException: Attempted to load class com/keerdm/binocularsmod/cli
 [20Jul2025 04:22:30.889] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [20Jul2025 04:22:31.064] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Supinv__]
 [20Jul2025 04:22:31.064] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Supinv__]
+[20Jul2025 04:23:26.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Supinv__ has reached the goal [Here They Come]
+[20Jul2025 04:24:35.248] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[20Jul2025 04:24:52.504] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2263ms or 45 ticks behind
+[20Jul2025 04:25:00.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrew_50G fell from a high place
+[20Jul2025 04:25:00.858] [Server thread/INFO] [tombstone/]: The player Andrew_50G has successfully been saved
+[20Jul2025 04:25:02.626] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20Jul2025 04:25:02.781] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Andrew_50G]
+[20Jul2025 04:25:02.781] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Andrew_50G]
+[20Jul2025 04:26:25.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Supinv__ tried to swim in lava
+[20Jul2025 04:26:25.801] [Server thread/INFO] [tombstone/]: The player Supinv__ has successfully been saved
+[20Jul2025 04:26:29.012] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20Jul2025 04:26:29.144] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Supinv__]
+[20Jul2025 04:26:29.145] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Supinv__]
+[20Jul2025 04:28:21.896] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andrew_50G moved too quickly! 6.7061929789672945,-5.0,5.594845037485413
+[20Jul2025 04:28:30.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inquisitor1102 has made the advancement [Hunt and Gather]
+[20Jul2025 04:31:10.724] [Server thread/INFO] [fastsuite/]: Constructed recipe list for farmersdelight:cutting in 94.64 μs. 0/125 recipes are parallelized.
+[20Jul2025 04:31:28.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrew_50G was impaled by Drowned
+[20Jul2025 04:31:28.082] [Server thread/INFO] [tombstone/]: The player Andrew_50G has successfully been saved
+[20Jul2025 04:31:29.922] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20Jul2025 04:31:30.062] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Andrew_50G]
+[20Jul2025 04:31:30.063] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Andrew_50G]
+[20Jul2025 04:32:43.094] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=-33, y=107, z=-303}
+[20Jul2025 04:33:17.277] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@3ad570f6]Trying to start horde event on day 20 with nextDay 20 and time 10000
+[20Jul2025 04:33:17.277] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@5a95017b
+[20Jul2025 04:33:17.277] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[20Jul2025 04:33:17.277] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[20Jul2025 04:33:17.328] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[20Jul2025 04:33:17.328] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[20Jul2025 04:33:17.329] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[20Jul2025 04:33:17.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Andrew_50G: Applied 10.0 damage to unwey456]
+[20Jul2025 04:34:01.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Supinv__ was shot to pieces.
+[20Jul2025 04:34:01.339] [Server thread/INFO] [tombstone/]: The player Supinv__ has successfully been saved
+[20Jul2025 04:34:06.664] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20Jul2025 04:34:06.822] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Supinv__]
+[20Jul2025 04:34:06.822] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Supinv__]
+[20Jul2025 04:34:07.322] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[20Jul2025 04:34:07.322] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[20Jul2025 04:34:07.322] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[20Jul2025 04:34:57.326] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[20Jul2025 04:34:57.326] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[20Jul2025 04:34:57.326] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[20Jul2025 04:35:47.317] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[20Jul2025 04:35:47.318] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[20Jul2025 04:35:47.318] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[20Jul2025 04:35:54.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Supinv__ was slain by Zombie Horse
+[20Jul2025 04:35:54.847] [Server thread/INFO] [tombstone/]: The player Supinv__ has successfully been saved
+[20Jul2025 04:35:58.817] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20Jul2025 04:35:58.970] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Supinv__]
+[20Jul2025 04:35:58.970] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Supinv__]
+[20Jul2025 04:36:37.336] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[20Jul2025 04:36:37.336] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[20Jul2025 04:36:37.336] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[20Jul2025 04:37:27.343] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[20Jul2025 04:37:27.344] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[20Jul2025 04:37:27.344] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[20Jul2025 04:39:15.223] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andrew_50G lost connection: Timed out
+[20Jul2025 04:39:15.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrew_50G left the game
+[20Jul2025 04:39:15.224] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e2fb7a3a-51c5-3c5d-8d8d-df4e1427bb07 was unloaded
+[20Jul2025 04:39:35.584] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Andrew_50G[/10.147.17.22:57594] logged in with entity id 1631444 at (-89.69999998807907, 100.0, 56.98920969938061)
+[20Jul2025 04:39:35.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrew_50G joined the game
+[20Jul2025 04:39:35.695] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Andrew_50G
+[20Jul2025 04:39:35.756] [Netty Epoll Server IO #6/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Andrew_50G
+[20Jul2025 04:39:35.909] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e2fb7a3a-51c5-3c5d-8d8d-df4e1427bb07 was loaded
+[20Jul2025 04:39:35.909] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Andrew_50G]
+[20Jul2025 04:39:35.909] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Andrew_50G]
+[20Jul2025 04:43:20.965] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andrew_50G lost connection: Timed out
+[20Jul2025 04:43:20.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrew_50G left the game
+[20Jul2025 04:43:20.966] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e2fb7a3a-51c5-3c5d-8d8d-df4e1427bb07 was unloaded
+[20Jul2025 04:43:43.881] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Andrew_50G[/10.147.17.22:47352] logged in with entity id 1680734 at (-13.46821539616405, 77.5, -1.1535278923147567)
+[20Jul2025 04:43:43.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrew_50G joined the game
+[20Jul2025 04:43:43.982] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Andrew_50G
+[20Jul2025 04:43:44.044] [Netty Epoll Server IO #3/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Andrew_50G
+[20Jul2025 04:43:44.056] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e2fb7a3a-51c5-3c5d-8d8d-df4e1427bb07 was loaded
+[20Jul2025 04:43:44.056] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Andrew_50G]
+[20Jul2025 04:43:44.056] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Andrew_50G]
+[20Jul2025 04:44:53.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Supinv__ has made the advancement [Crops of the Wild]
+[20Jul2025 04:45:40.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Supinv__ tried to swim in lava
+[20Jul2025 04:45:40.620] [Server thread/INFO] [tombstone/]: The player Supinv__ has successfully been saved
+[20Jul2025 04:45:40.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Andrew_50G: The difficulty has been set to Peaceful]
+[20Jul2025 04:45:42.808] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20Jul2025 04:45:42.940] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Supinv__]
+[20Jul2025 04:45:42.940] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Supinv__]
+[20Jul2025 04:49:06.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Andrew_50G: Applied 4.0 damage to unwey456]
+[20Jul2025 04:49:08.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Andrew_50G: Applied 4.0 damage to unwey456]
+[20Jul2025 04:50:17.762] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1, y=81, z=-40} BlockPos{x=-5, y=82, z=-11}
+[20Jul2025 04:50:17.810] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1, y=81, z=-40} BlockPos{x=-5, y=81, z=-11}
+[20Jul2025 04:50:21.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Supinv__ was slain by Andrew_50G
+[20Jul2025 04:50:21.971] [Server thread/INFO] [tombstone/]: The player Supinv__ has successfully been saved
+[20Jul2025 04:50:23.210] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[20Jul2025 04:50:23.335] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Supinv__]
+[20Jul2025 04:50:23.335] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Supinv__]
+[20Jul2025 04:50:28.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andrew_50G moved wrongly!
+[20Jul2025 04:53:05.789] [Server thread/INFO] [BinocularsItem/]: BinocularsItem use() called. Hand: MAIN_HAND, Player: Supinv__
+[20Jul2025 04:53:05.790] [Server thread/INFO] [BinocularsItem/]: Current item usage state: false
+[20Jul2025 04:53:05.790] [Server thread/INFO] [BinocularsItem/]: Sending network message from server
+[20Jul2025 04:53:05.790] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/keerdm/binocularsmod/client/BinocularsOverlay for invalid dist DEDICATED_SERVER
+[20Jul2025 04:53:05.791] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemPacket@470e8009, suppressing error
+java.lang.RuntimeException: Attempted to load class com/keerdm/binocularsmod/client/BinocularsOverlay for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.4.2.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at com.keerdm.binocularsmod.item.BinocularsItem.m_7203_(BinocularsItem.java:53) ~[binocularsmod-1.02.jar%23307!/:1.02]
+	at net.minecraft.world.item.ItemStack.m_41682_(ItemStack.java:275) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameMode.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerGamePacketListenerImpl.java:1085) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(ServerboundUseItemPacket.java:29) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(ServerboundUseItemPacket.java:7) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[20Jul2025 04:53:07.110] [Server thread/INFO] [BinocularsItem/]: BinocularsItem use() called. Hand: MAIN_HAND, Player: Supinv__
+[20Jul2025 04:53:07.110] [Server thread/INFO] [BinocularsItem/]: Current item usage state: false
+[20Jul2025 04:53:07.110] [Server thread/INFO] [BinocularsItem/]: Sending network message from server
+[20Jul2025 04:53:07.111] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/keerdm/binocularsmod/client/BinocularsOverlay for invalid dist DEDICATED_SERVER
+[20Jul2025 04:53:07.111] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemPacket@3879afae, suppressing error
+java.lang.RuntimeException: Attempted to load class com/keerdm/binocularsmod/client/BinocularsOverlay for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.4.2.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at com.keerdm.binocularsmod.item.BinocularsItem.m_7203_(BinocularsItem.java:53) ~[binocularsmod-1.02.jar%23307!/:1.02]
+	at net.minecraft.world.item.ItemStack.m_41682_(ItemStack.java:275) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameMode.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerGamePacketListenerImpl.java:1085) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(ServerboundUseItemPacket.java:29) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(ServerboundUseItemPacket.java:7) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[20Jul2025 04:53:10.962] [Server thread/INFO] [BinocularsItem/]: BinocularsItem use() called. Hand: MAIN_HAND, Player: Supinv__
+[20Jul2025 04:53:10.962] [Server thread/INFO] [BinocularsItem/]: Current item usage state: false
+[20Jul2025 04:53:10.962] [Server thread/INFO] [BinocularsItem/]: Sending network message from server
+[20Jul2025 04:53:10.963] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/keerdm/binocularsmod/client/BinocularsOverlay for invalid dist DEDICATED_SERVER
+[20Jul2025 04:53:10.963] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemPacket@2cd45d77, suppressing error
+java.lang.RuntimeException: Attempted to load class com/keerdm/binocularsmod/client/BinocularsOverlay for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.4.2.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at com.keerdm.binocularsmod.item.BinocularsItem.m_7203_(BinocularsItem.java:53) ~[binocularsmod-1.02.jar%23307!/:1.02]
+	at net.minecraft.world.item.ItemStack.m_41682_(ItemStack.java:275) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameMode.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerGamePacketListenerImpl.java:1085) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(ServerboundUseItemPacket.java:29) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(ServerboundUseItemPacket.java:7) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[20Jul2025 04:53:18.911] [Server thread/INFO] [BinocularsItem/]: BinocularsItem use() called. Hand: MAIN_HAND, Player: Supinv__
+[20Jul2025 04:53:18.911] [Server thread/INFO] [BinocularsItem/]: Current item usage state: false
+[20Jul2025 04:53:18.911] [Server thread/INFO] [BinocularsItem/]: Sending network message from server
+[20Jul2025 04:53:18.912] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/keerdm/binocularsmod/client/BinocularsOverlay for invalid dist DEDICATED_SERVER
+[20Jul2025 04:53:18.912] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemPacket@745bfe42, suppressing error
+java.lang.RuntimeException: Attempted to load class com/keerdm/binocularsmod/client/BinocularsOverlay for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.4.2.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at com.keerdm.binocularsmod.item.BinocularsItem.m_7203_(BinocularsItem.java:53) ~[binocularsmod-1.02.jar%23307!/:1.02]
+	at net.minecraft.world.item.ItemStack.m_41682_(ItemStack.java:275) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameMode.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerGamePacketListenerImpl.java:1085) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(ServerboundUseItemPacket.java:29) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(ServerboundUseItemPacket.java:7) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[20Jul2025 04:53:20.558] [Server thread/INFO] [BinocularsItem/]: BinocularsItem use() called. Hand: MAIN_HAND, Player: Supinv__
+[20Jul2025 04:53:20.558] [Server thread/INFO] [BinocularsItem/]: Current item usage state: false
+[20Jul2025 04:53:20.558] [Server thread/INFO] [BinocularsItem/]: Sending network message from server
+[20Jul2025 04:53:20.559] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/keerdm/binocularsmod/client/BinocularsOverlay for invalid dist DEDICATED_SERVER
+[20Jul2025 04:53:20.559] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemPacket@7df22ad0, suppressing error
+java.lang.RuntimeException: Attempted to load class com/keerdm/binocularsmod/client/BinocularsOverlay for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.4.2.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at com.keerdm.binocularsmod.item.BinocularsItem.m_7203_(BinocularsItem.java:53) ~[binocularsmod-1.02.jar%23307!/:1.02]
+	at net.minecraft.world.item.ItemStack.m_41682_(ItemStack.java:275) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameMode.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerGamePacketListenerImpl.java:1085) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(ServerboundUseItemPacket.java:29) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(ServerboundUseItemPacket.java:7) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[20Jul2025 04:53:28.158] [Server thread/INFO] [BinocularsItem/]: BinocularsItem use() called. Hand: MAIN_HAND, Player: Supinv__
+[20Jul2025 04:53:28.158] [Server thread/INFO] [BinocularsItem/]: Current item usage state: false
+[20Jul2025 04:53:28.158] [Server thread/INFO] [BinocularsItem/]: Sending network message from server
+[20Jul2025 04:53:28.159] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/keerdm/binocularsmod/client/BinocularsOverlay for invalid dist DEDICATED_SERVER
+[20Jul2025 04:53:28.159] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemPacket@1193fac6, suppressing error
+java.lang.RuntimeException: Attempted to load class com/keerdm/binocularsmod/client/BinocularsOverlay for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.4.2.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at com.keerdm.binocularsmod.item.BinocularsItem.m_7203_(BinocularsItem.java:53) ~[binocularsmod-1.02.jar%23307!/:1.02]
+	at net.minecraft.world.item.ItemStack.m_41682_(ItemStack.java:275) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameMode.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerGamePacketListenerImpl.java:1085) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(ServerboundUseItemPacket.java:29) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(ServerboundUseItemPacket.java:7) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23470!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
