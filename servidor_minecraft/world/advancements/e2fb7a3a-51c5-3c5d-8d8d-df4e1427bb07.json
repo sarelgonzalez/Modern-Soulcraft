@@ -113,6 +113,7 @@
       "minecraft:cherry_grove": "2025-07-20 04:32:53 +0000",
       "minecraft:birch_forest": "2025-07-20 04:21:11 +0000",
       "minecraft:beach": "2025-07-16 03:47:03 +0000",
+      "minecraft:dark_forest": "2025-07-21 03:51:26 +0000",
       "minecraft:river": "2025-07-16 04:26:46 +0000",
       "minecraft:dripstone_caves": "2025-07-16 05:03:04 +0000",
       "minecraft:forest": "2025-07-16 03:47:05 +0000",
@@ -6953,6 +6954,12 @@
     },
     "done": true
   },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-07-21 03:51:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cherry_sign": {
     "criteria": {
       "has_planks": "2025-07-21 02:43:47 +0000"
@@ -6977,6 +6984,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2025-07-21 03:47:43 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/weathered_plate_iron": {
+    "criteria": {
+      "has_copper_block": "2025-07-21 03:47:54 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/cherry_support": {
     "criteria": {
       "has_plank": "2025-07-21 02:43:47 +0000"
@@ -6986,6 +7005,18 @@
   "create:recipes/building_blocks/cut_veridium_bricks_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-07-21 03:15:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-07-21 03:48:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-07-21 03:48:38 +0000"
     },
     "done": true
   },
@@ -7010,6 +7041,12 @@
   "minecraft:recipes/redstone/cherry_button": {
     "criteria": {
       "has_planks": "2025-07-21 02:43:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-07-21 03:49:34 +0000"
     },
     "done": true
   },
@@ -7040,6 +7077,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_table": {
     "criteria": {
       "has_cherry_planks": "2025-07-21 02:43:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-07-21 03:49:34 +0000"
     },
     "done": true
   },
@@ -7103,6 +7146,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-21 03:49:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-07-21 03:48:38 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_cabinetry": {
     "criteria": {
       "has_cherry_planks": "2025-07-21 02:43:47 +0000"
@@ -7118,6 +7173,12 @@
   "create:recipes/building_blocks/cut_veridium_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-07-21 03:15:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-07-21 03:49:59 +0000"
     },
     "done": true
   },
