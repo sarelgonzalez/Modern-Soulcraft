@@ -7668,6 +7668,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-07-24 05:06:28 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-07-24 04:24:44 +0000"
@@ -7773,6 +7779,12 @@
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-24 04:02:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-07-24 05:07:29 +0000"
     },
     "done": true
   },
@@ -8604,6 +8616,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-07-24 05:06:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_white_bed": {
     "criteria": {
       "has_needed_dye": "2025-07-24 04:32:23 +0000"
@@ -8925,6 +8943,12 @@
   "minecraft:recipes/decorations/white_candle": {
     "criteria": {
       "has_white_dye": "2025-07-24 04:32:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-07-24 05:06:28 +0000"
     },
     "done": true
   },

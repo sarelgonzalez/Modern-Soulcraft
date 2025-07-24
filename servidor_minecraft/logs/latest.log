@@ -2167,3 +2167,37 @@ java.lang.RuntimeException: Attempted to load class com/keerdm/binocularsmod/cli
 [24Jul2025 05:01:12.834] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [inquisitor1102]
 [24Jul2025 05:01:12.835] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [inquisitor1102]
 [24Jul2025 05:01:15.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andrew_50G> pipi
+[24Jul2025 05:03:09.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N30NP1X3l was slain by Zombie
+[24Jul2025 05:03:09.186] [Server thread/INFO] [tombstone/]: The player N30NP1X3l has successfully been saved
+[24Jul2025 05:03:10.275] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[24Jul2025 05:03:10.384] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [N30NP1X3l]
+[24Jul2025 05:03:10.384] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [N30NP1X3l]
+[24Jul2025 05:03:44.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N30NP1X3l was slain by Zombie
+[24Jul2025 05:03:44.789] [Server thread/INFO] [tombstone/]: The player N30NP1X3l has successfully been saved
+[24Jul2025 05:03:45.945] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[24Jul2025 05:03:46.052] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [N30NP1X3l]
+[24Jul2025 05:03:46.053] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [N30NP1X3l]
+[24Jul2025 05:04:20.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <inquisitor1102> xaero-waypoint:ciudad 2:C:184:95:990:1:false:0:Internal-overworld-waypoints
+[24Jul2025 05:05:13.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N30NP1X3l was slain by inquisitor1102
+[24Jul2025 05:05:13.882] [Server thread/INFO] [tombstone/]: The player N30NP1X3l has successfully been saved
+[24Jul2025 05:05:15.186] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[24Jul2025 05:05:15.290] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [N30NP1X3l]
+[24Jul2025 05:05:15.290] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [N30NP1X3l]
+[24Jul2025 05:06:28.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrew_50G has made the advancement [Hidden in the Depths]
+[24Jul2025 05:10:07.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Andrew_50G: Set own game mode to Spectator Mode]
+[24Jul2025 05:10:26.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Andrew_50G: Set own game mode to Survival Mode]
+[24Jul2025 05:11:02.583] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@484095d3]Trying to start horde event on day 30 with nextDay 30 and time 10000
+[24Jul2025 05:11:02.589] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@70ce8768
+[24Jul2025 05:11:02.590] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[24Jul2025 05:11:02.590] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[24Jul2025 05:11:02.590] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[24Jul2025 05:11:02.637] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 30
+[24Jul2025 05:11:52.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Andrew_50G: Set own game mode to Spectator Mode]
+[24Jul2025 05:11:52.641] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 30
+[24Jul2025 05:12:03.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Andrew_50G: Set own game mode to Survival Mode]
+[24Jul2025 05:12:14.559] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[24Jul2025 05:12:33.988] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4437ms or 88 ticks behind
+[24Jul2025 05:12:51.903] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2952ms or 59 ticks behind
+[24Jul2025 05:12:51.987] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 30
+[24Jul2025 05:13:09.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Andrew_50G: Set own game mode to Spectator Mode]
+[24Jul2025 05:13:12.643] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5742ms or 114 ticks behind
