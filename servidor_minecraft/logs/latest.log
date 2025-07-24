@@ -809,3 +809,19 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [24Jul2025 02:32:29.575] [Server thread/INFO] [com.technicboyman.nobz.nobabyzombies1_20_1forge.Nobabyzombies1_20_1forge/]: HELLO from server starting
 [24Jul2025 02:32:29.582] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: forgivingworld.json
 [24Jul2025 02:32:29.584] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[24Jul2025 02:41:28.039] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: N30NP1X3l[/10.147.17.238:58910] logged in with entity id 478 at (-131.92589450670684, 196.0, -32.78732522212971)
+[24Jul2025 02:41:28.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N30NP1X3l joined the game
+[24Jul2025 02:41:28.313] [Server thread/INFO] [dev.corgitaco.enhancedcelestials.EnhancedCelestials/]: Possible lunar events for dimension "minecraft:overworld" are [enhancedcelestials:super_harvest_moon, enhancedcelestials:blood_moon, enhancedcelestials:super_blue_moon, enhancedcelestials:super_blood_moon, enhancedcelestials:blue_moon, enhancedcelestials:super_moon, enhancedcelestials:harvest_moon].
+[24Jul2025 02:41:28.437] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to N30NP1X3l
+[24Jul2025 02:41:29.958] [Netty Epoll Server IO #2/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from N30NP1X3l
+[24Jul2025 02:41:30.055] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of ae9115be-ccc4-3759-8703-b5a55177e635 was loaded
+[24Jul2025 02:41:30.056] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [N30NP1X3l]
+[24Jul2025 02:41:30.056] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [N30NP1X3l]
+[24Jul2025 02:45:17.404] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 3.847 ms. 5156/5210 recipes are parallelized.
+[24Jul2025 02:46:36.298] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: unwey456[/10.147.17.51:57284] logged in with entity id 19564 at (-176.2337655927416, 88.0, 8.624232052918773)
+[24Jul2025 02:46:36.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: unwey456 joined the game
+[24Jul2025 02:46:36.425] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to unwey456
+[24Jul2025 02:46:38.282] [Netty Epoll Server IO #6/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from unwey456
+[24Jul2025 02:46:38.364] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9b5cbb27-0661-3c24-9995-4270e55597c0 was loaded
+[24Jul2025 02:46:38.365] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [unwey456]
+[24Jul2025 02:46:38.365] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [unwey456]

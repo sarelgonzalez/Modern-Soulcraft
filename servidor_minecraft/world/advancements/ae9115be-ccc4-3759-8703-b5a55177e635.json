@@ -4417,45 +4417,21 @@
     },
     "done": true
   },
-  "bloomingnature:recipes/swamp_oak_wood": {
+  "refurbished_furniture:recipes/misc/slicing/light_gray_dye_from_azure_bluet": {
     "criteria": {
-      "has_swamp_oak_log": "2025-07-21 03:41:51 +0000"
+      "has_azure_bluet": "2025-07-21 02:39:29 +0000"
     },
     "done": true
   },
-  "bloomingnature:recipes/swamp_oak_trapdoor": {
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
-      "has_swamp_oak_planks": "2025-07-21 03:41:57 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/building_blocks/birch_palisade": {
-    "criteria": {
-      "has_log": "2025-07-21 03:41:52 +0000"
+      "has_azure_bluet": "2025-07-21 02:39:29 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-07-21 02:45:58 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/portable_tune_player": {
-    "criteria": {
-      "has_redstone": "2025-07-21 03:26:47 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/swamp_oak_planks": {
-    "criteria": {
-      "has_swamp_oak_log": "2025-07-21 03:41:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_logs": "2025-07-21 03:41:52 +0000"
     },
     "done": true
   },
@@ -4477,9 +4453,27 @@
     },
     "done": true
   },
-  "bloomingnature:recipes/swamp_oak_button": {
+  "minecraft:recipes/brewing/cauldron": {
     "criteria": {
-      "has_swamp_oak_planks": "2025-07-21 03:41:57 +0000"
+      "has_water_bucket": "2025-07-21 03:06:30 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2025-07-21 03:06:30 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/ice": {
+    "criteria": {
+      "has_ingredient": "2025-07-21 03:06:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/portable_tune_player": {
+    "criteria": {
+      "has_redstone": "2025-07-21 03:26:47 +0000"
     },
     "done": true
   },
@@ -4507,21 +4501,9 @@
     },
     "done": true
   },
-  "bloomingnature:recipes/swamp_oak_fence": {
-    "criteria": {
-      "has_swamp_oak_planks": "2025-07-21 03:41:57 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/reinforced_piston": {
     "criteria": {
       "has_redstone": "2025-07-21 03:26:47 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/swamp_oak_fence_gate": {
-    "criteria": {
-      "has_swamp_oak_planks": "2025-07-21 03:41:57 +0000"
     },
     "done": true
   },
@@ -4534,24 +4516,6 @@
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-07-21 03:26:47 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/swamp_oak_window": {
-    "criteria": {
-      "has_swamp_oak_planks": "2025-07-21 03:41:57 +0000"
-    },
-    "done": true
-  },
-  "bbb:recipes/birch_pallet": {
-    "criteria": {
-      "has_planks": "2025-07-21 03:41:52 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/swamp_oak_sign": {
-    "criteria": {
-      "has_swamp_oak_planks": "2025-07-21 03:41:57 +0000"
     },
     "done": true
   },
@@ -4579,12 +4543,6 @@
     },
     "done": true
   },
-  "bloomingnature:recipes/swamp_oak_door": {
-    "criteria": {
-      "has_swamp_oak_planks": "2025-07-21 03:41:57 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/misc/cage_trap": {
     "criteria": {
       "has_redstone": "2025-07-21 03:26:47 +0000"
@@ -4597,12 +4555,6 @@
     },
     "done": true
   },
-  "bloomingnature:recipes/swamp_oak_chest_boat": {
-    "criteria": {
-      "has_swamp_oak_planks": "2025-07-21 03:41:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-07-21 03:26:47 +0000"
@@ -4612,18 +4564,6 @@
   "create:recipes/misc/crafting/logistics/pulse_extender": {
     "criteria": {
       "has_item": "2025-07-21 03:26:47 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/swamp_oak_slab": {
-    "criteria": {
-      "has_swamp_oak_planks": "2025-07-21 03:41:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_wood": {
-    "criteria": {
-      "has_log": "2025-07-21 03:41:52 +0000"
     },
     "done": true
   },
@@ -4651,21 +4591,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/light_gray_dye_from_azure_bluet": {
-    "criteria": {
-      "has_azure_bluet": "2025-07-21 02:39:29 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/portable_radar": {
     "criteria": {
       "has_redstone": "2025-07-21 03:26:47 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/swamp_oak_stairs": {
-    "criteria": {
-      "has_swamp_oak_planks": "2025-07-21 03:41:57 +0000"
     },
     "done": true
   },
@@ -4675,21 +4603,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2025-07-21 03:06:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-07-21 03:26:47 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/craft_knife": {
-    "criteria": {
-      "iron_knife": "2025-07-21 03:49:43 +0000"
     },
     "done": true
   },
@@ -4699,33 +4615,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
-    "criteria": {
-      "has_iron_knife": "2025-07-21 03:49:43 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/tools/universal_key_changer": {
     "criteria": {
       "has_redstone": "2025-07-21 03:26:47 +0000"
-    },
-    "done": true
-  },
-  "bbb:recipes/birch_beam": {
-    "criteria": {
-      "has_log": "2025-07-21 03:41:52 +0000"
-    },
-    "done": true
-  },
-  "bbb:recipes/birch_frame": {
-    "criteria": {
-      "has_planks": "2025-07-21 03:41:52 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
-    "criteria": {
-      "has_iron_knife": "2025-07-21 03:49:43 +0000"
     },
     "done": true
   },
@@ -4735,51 +4627,9 @@
     },
     "done": true
   },
-  "bbb:recipes/birch_wall": {
-    "criteria": {
-      "has_logs": "2025-07-21 03:41:52 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/vegetable_noodles": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-21 03:47:47 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/swamp_oak_boat": {
-    "criteria": {
-      "has_swamp_oak_planks": "2025-07-21 03:41:57 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/food/dough": {
-    "criteria": {
-      "has_water": "2025-07-21 03:06:30 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
     "criteria": {
       "has_redstone": "2025-07-21 03:26:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
-    "criteria": {
-      "has_azure_bluet": "2025-07-21 02:39:29 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/swamp_oak_hanging_sign": {
-    "criteria": {
-      "has_swamp_oak_planks": "2025-07-21 03:41:57 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/freezing/ice": {
-    "criteria": {
-      "has_ingredient": "2025-07-21 03:06:30 +0000"
     },
     "done": true
   },
@@ -4798,6 +4648,156 @@
   "securitycraft:recipes/redstone/panic_button": {
     "criteria": {
       "has_redstone": "2025-07-21 03:26:47 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_wood": {
+    "criteria": {
+      "has_swamp_oak_log": "2025-07-21 03:41:51 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_planks": {
+    "criteria": {
+      "has_swamp_oak_log": "2025-07-21 03:41:51 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/birch_palisade": {
+    "criteria": {
+      "has_log": "2025-07-21 03:41:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-07-21 03:41:52 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/birch_pallet": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:41:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-07-21 03:41:52 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/birch_beam": {
+    "criteria": {
+      "has_log": "2025-07-21 03:41:52 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/birch_frame": {
+    "criteria": {
+      "has_planks": "2025-07-21 03:41:52 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/birch_wall": {
+    "criteria": {
+      "has_logs": "2025-07-21 03:41:52 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_trapdoor": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-07-21 03:41:57 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_button": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-07-21 03:41:57 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_fence": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-07-21 03:41:57 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_fence_gate": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-07-21 03:41:57 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_window": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-07-21 03:41:57 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_sign": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-07-21 03:41:57 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_door": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-07-21 03:41:57 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_chest_boat": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-07-21 03:41:57 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_slab": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-07-21 03:41:57 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_stairs": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-07-21 03:41:57 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_boat": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-07-21 03:41:57 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_hanging_sign": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-07-21 03:41:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-21 03:47:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-07-21 03:49:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-07-21 03:49:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-07-21 03:49:43 +0000"
     },
     "done": true
   },
