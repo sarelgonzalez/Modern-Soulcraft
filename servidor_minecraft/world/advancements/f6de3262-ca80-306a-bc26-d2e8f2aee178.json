@@ -7491,6 +7491,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-07-24 04:24:03 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/iron_hull": {
     "criteria": {
       "has_item": "2025-07-24 03:58:26 +0000"
