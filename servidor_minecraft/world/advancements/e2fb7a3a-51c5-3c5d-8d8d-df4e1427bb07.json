@@ -110,12 +110,15 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-07-24 03:03:02 +0000",
+      "minecraft:taiga": "2025-07-24 03:04:01 +0000",
       "minecraft:cherry_grove": "2025-07-20 04:32:53 +0000",
       "minecraft:birch_forest": "2025-07-20 04:21:11 +0000",
       "minecraft:beach": "2025-07-16 03:47:03 +0000",
       "minecraft:dark_forest": "2025-07-21 03:51:26 +0000",
       "minecraft:river": "2025-07-16 04:26:46 +0000",
       "minecraft:dripstone_caves": "2025-07-16 05:03:04 +0000",
+      "minecraft:cold_ocean": "2025-07-24 03:03:58 +0000",
       "minecraft:forest": "2025-07-16 03:47:05 +0000",
       "minecraft:ocean": "2025-07-21 03:10:38 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-20 04:26:02 +0000",
@@ -7317,6 +7320,114 @@
   "lootr:50loot": {
     "criteria": {
       "loot_stat": "2025-07-21 03:51:31 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_iron_door": {
+    "criteria": {
+      "has_item": "2025-07-24 03:05:00 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/cut_iron": {
+    "criteria": {
+      "has_copper_block": "2025-07-24 03:06:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-24 03:06:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-24 03:06:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-24 03:06:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-24 03:06:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-24 03:06:59 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/polished_deepslate_layer": {
+    "criteria": {
+      "has_block": "2025-07-24 03:06:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-24 03:06:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-24 03:06:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-24 03:06:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-24 03:06:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-24 03:06:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-24 03:06:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-24 03:06:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-24 03:06:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-24 03:06:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-24 03:06:59 +0000"
     },
     "done": true
   },
