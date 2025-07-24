@@ -4801,6 +4801,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-07-24 05:16:31 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2025-07-24 04:08:48 +0000"
@@ -4816,6 +4822,12 @@
   "herbalbrews:main/find_tea_blossom": {
     "criteria": {
       "tea_blossom": "2025-07-24 04:08:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-07-24 05:16:31 +0000"
     },
     "done": true
   },

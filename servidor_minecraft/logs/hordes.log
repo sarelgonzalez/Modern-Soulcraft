@@ -76,3 +76,53 @@ Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=
 Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 30
 Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 30
 Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 30
+Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 30
+Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 30
+Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 30
+Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 30
+Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=20,minDay=30,maxDay=50] to hordespawn on day 35
+Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 30
+Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 30
+Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 30
+Adding entry HordeSpawnEntry[type=entity.minecraft.skeleton,weight=10,minDay=20,maxDay=30] to hordespawn on day 30
+Adding entry HordeSpawnEntry[type=entity.minecraft.spider,weight=15,minDay=20,maxDay=30] to hordespawn on day 30
+Adding entry HordeSpawnEntry[type=entity.minecraft.creeper,weight=5,minDay=30,maxDay=30] to hordespawn on day 30
+Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=20,minDay=30,maxDay=50] to hordespawn on day 30
+Adding entry HordeSpawnEntry[type=entity.minecraft.skeleton,weight=10,minDay=20,maxDay=30] to hordespawn on day 30
+Adding entry HordeSpawnEntry[type=entity.minecraft.spider,weight=15,minDay=20,maxDay=30] to hordespawn on day 30
+Adding entry HordeSpawnEntry[type=entity.minecraft.creeper,weight=5,minDay=30,maxDay=30] to hordespawn on day 30
+Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=20,minDay=30,maxDay=50] to hordespawn on day 30
+Adding entry HordeSpawnEntry[type=entity.minecraft.skeleton,weight=10,minDay=20,maxDay=30] to hordespawn on day 30
+Adding entry HordeSpawnEntry[type=entity.minecraft.spider,weight=15,minDay=20,maxDay=30] to hordespawn on day 30
+Adding entry HordeSpawnEntry[type=entity.minecraft.creeper,weight=5,minDay=30,maxDay=30] to hordespawn on day 30
+Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=20,minDay=30,maxDay=50] to hordespawn on day 30
+Adding entry HordeSpawnEntry[type=entity.minecraft.skeleton,weight=10,minDay=20,maxDay=30] to hordespawn on day 30
+Adding entry HordeSpawnEntry[type=entity.minecraft.spider,weight=15,minDay=20,maxDay=30] to hordespawn on day 30
+Adding entry HordeSpawnEntry[type=entity.minecraft.creeper,weight=5,minDay=30,maxDay=30] to hordespawn on day 30
+Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=20,minDay=30,maxDay=50] to hordespawn on day 30
+Adding entry HordeSpawnEntry[type=entity.minecraft.skeleton,weight=10,minDay=20,maxDay=30] to hordespawn on day 30
+Adding entry HordeSpawnEntry[type=entity.minecraft.spider,weight=15,minDay=20,maxDay=30] to hordespawn on day 30
+Adding entry HordeSpawnEntry[type=entity.minecraft.creeper,weight=5,minDay=30,maxDay=30] to hordespawn on day 30
+Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=20,minDay=30,maxDay=50] to hordespawn on day 30
+Adding entry HordeSpawnEntry[type=entity.minecraft.skeleton,weight=10,minDay=20,maxDay=30] to hordespawn on day 30
+Adding entry HordeSpawnEntry[type=entity.minecraft.spider,weight=15,minDay=20,maxDay=30] to hordespawn on day 30
+Adding entry HordeSpawnEntry[type=entity.minecraft.creeper,weight=5,minDay=30,maxDay=30] to hordespawn on day 30
+Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=20,minDay=30,maxDay=50] to hordespawn on day 30
+[net.smileycorp.hordes.hordeevent.capability.HordeEvent@498d3bc9]Trying to start horde event on day 40 with nextDay 40 and time 10000
+Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@40f32ac3
+Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 30
+Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 40
+[net.smileycorp.hordes.hordeevent.capability.HordeEvent@6dc7b820]Trying to start horde event on day 30 with nextDay 30 and time 10304
+Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@3a6cc5fb
+Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 30
+Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 40
+Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 30
+Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 40
+Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 30
+Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 40
+Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 30
+Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 40
+Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 40
