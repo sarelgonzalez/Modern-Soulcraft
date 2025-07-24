@@ -2156,3 +2156,14 @@ java.lang.RuntimeException: Attempted to load class com/keerdm/binocularsmod/cli
 [24Jul2025 04:49:21.888] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [24Jul2025 04:49:21.997] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [N30NP1X3l]
 [24Jul2025 04:49:21.997] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [N30NP1X3l]
+[24Jul2025 05:00:27.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N30NP1X3l was slain by Andrew_50G
+[24Jul2025 05:00:27.643] [Server thread/INFO] [tombstone/]: The player N30NP1X3l has successfully been saved
+[24Jul2025 05:00:30.432] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[24Jul2025 05:00:30.539] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [N30NP1X3l]
+[24Jul2025 05:00:30.539] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [N30NP1X3l]
+[24Jul2025 05:01:11.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inquisitor1102 fell while climbing
+[24Jul2025 05:01:11.084] [Server thread/INFO] [tombstone/]: The player inquisitor1102 has successfully been saved
+[24Jul2025 05:01:12.724] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[24Jul2025 05:01:12.834] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [inquisitor1102]
+[24Jul2025 05:01:12.835] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [inquisitor1102]
+[24Jul2025 05:01:15.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andrew_50G> pipi

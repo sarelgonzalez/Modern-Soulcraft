@@ -5318,6 +5318,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/building_blocks/birch_palisade": {
+    "criteria": {
+      "has_log": "2025-07-24 04:49:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/horizontal_framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2025-07-24 04:18:53 +0000"
@@ -5369,6 +5375,12 @@
   "securitycraft:recipes/decorations/reinforced_white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-07-24 04:18:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-07-24 04:49:42 +0000"
     },
     "done": true
   },
@@ -5576,6 +5588,12 @@
     },
     "done": true
   },
+  "bbb:recipes/birch_pallet": {
+    "criteria": {
+      "has_planks": "2025-07-24 04:49:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-07-24 04:18:53 +0000"
@@ -5702,6 +5720,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-07-24 04:49:42 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_storage_jar": {
     "criteria": {
       "has_glass": "2025-07-24 04:18:53 +0000"
@@ -5816,9 +5840,27 @@
     },
     "done": true
   },
+  "bbb:recipes/birch_beam": {
+    "criteria": {
+      "has_log": "2025-07-24 04:49:42 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/birch_frame": {
+    "criteria": {
+      "has_planks": "2025-07-24 04:49:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2025-07-24 04:07:43 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/birch_wall": {
+    "criteria": {
+      "has_logs": "2025-07-24 04:49:42 +0000"
     },
     "done": true
   },
