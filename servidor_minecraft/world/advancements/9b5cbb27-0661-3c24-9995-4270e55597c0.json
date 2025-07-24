@@ -110,6 +110,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:river": "2025-07-24 04:07:57 +0000",
       "minecraft:forest": "2025-07-18 03:47:46 +0000",
       "minecraft:deep_dark": "2025-07-18 05:46:03 +0000",
       "minecraft:meadow": "2025-07-18 03:47:04 +0000",
@@ -5260,6 +5261,24 @@
   "tombstone:adventure/teleport_to_grave": {
     "criteria": {
       "coded_trigger": "2025-07-21 03:47:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-07-24 04:07:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-07-24 04:07:43 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/sand": {
+    "criteria": {
+      "has_copper_block": "2025-07-24 04:07:43 +0000"
     },
     "done": true
   },
