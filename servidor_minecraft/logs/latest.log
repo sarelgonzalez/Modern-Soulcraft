@@ -1385,3 +1385,187 @@ java.lang.RuntimeException: Attempted to load class com/keerdm/binocularsmod/cli
 [24Jul2025 03:18:48.825] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [24Jul2025 03:18:49.023] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Andrew_50G]
 [24Jul2025 03:18:49.023] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Andrew_50G]
+[24Jul2025 03:21:45.152] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[24Jul2025 03:21:52.916] [Worker-Main-7/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:22:03.531] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3380ms or 67 ticks behind
+[24Jul2025 03:22:26.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Andrew_50G> xaero-waypoint:Shared Location:S:-480:73:303:0:false:0:Internal-overworld-waypoints
+[24Jul2025 03:22:40.454] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[24Jul2025 03:22:48.221] [Worker-Main-38/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:22:57.646] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2195ms or 43 ticks behind
+[24Jul2025 03:23:15.821] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3220ms or 64 ticks behind
+[24Jul2025 03:23:33.199] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2398ms or 47 ticks behind
+[24Jul2025 03:23:51.641] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3490ms or 69 ticks behind
+[24Jul2025 03:23:57.554] [Worker-Main-39/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[24Jul2025 03:23:57.555] [Worker-Main-39/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[24Jul2025 03:23:57.564] [Worker-Main-39/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[24Jul2025 03:23:57.569] [Worker-Main-39/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[24Jul2025 03:23:57.573] [Worker-Main-39/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[24Jul2025 03:23:57.591] [Worker-Main-39/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[24Jul2025 03:23:57.606] [Worker-Main-39/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[24Jul2025 03:23:57.616] [Worker-Main-39/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[24Jul2025 03:23:57.627] [Worker-Main-39/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[24Jul2025 03:23:57.655] [Worker-Main-39/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[24Jul2025 03:23:57.661] [Worker-Main-39/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[24Jul2025 03:23:57.661] [Worker-Main-39/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[24Jul2025 03:23:57.662] [Worker-Main-39/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[24Jul2025 03:23:57.662] [Worker-Main-39/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[24Jul2025 03:23:57.674] [Worker-Main-39/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[24Jul2025 03:23:57.675] [Worker-Main-39/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[24Jul2025 03:23:57.683] [Worker-Main-39/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[24Jul2025 03:23:57.687] [Worker-Main-39/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[24Jul2025 03:23:57.693] [Worker-Main-39/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[24Jul2025 03:23:57.713] [Worker-Main-39/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[24Jul2025 03:23:57.726] [Worker-Main-39/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[24Jul2025 03:23:57.737] [Worker-Main-39/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[24Jul2025 03:23:57.747] [Worker-Main-39/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[24Jul2025 03:23:57.778] [Worker-Main-39/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[24Jul2025 03:23:57.783] [Worker-Main-39/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[24Jul2025 03:23:57.784] [Worker-Main-39/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[24Jul2025 03:23:57.784] [Worker-Main-39/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[24Jul2025 03:23:57.784] [Worker-Main-39/WARN] [lithostitched/]: Non-existent template pool reference: jeffs_cursed_walking_structures:factoryofdoom_parts
+[24Jul2025 03:24:08.788] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2187ms or 43 ticks behind
+[24Jul2025 03:24:12.224] [Worker-Main-40/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:24:12.254] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:24:24.688] [Worker-Main-36/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:24:25.904] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:24:25.922] [Worker-Main-17/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:24:28.429] [Worker-Main-17/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:24:28.533] [Worker-Main-42/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:24:30.739] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[24Jul2025 03:24:31.155] [Worker-Main-20/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:24:31.203] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:24:31.207] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:24:31.335] [Worker-Main-15/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:24:31.370] [Worker-Main-22/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:24:31.772] [Worker-Main-42/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:28.519] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=-539, y=84, z=1933}
+[24Jul2025 03:25:28.552] [Worker-Main-7/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:33.355] [Worker-Main-8/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:33.429] [Worker-Main-36/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:33.453] [Worker-Main-22/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:34.949] [Worker-Main-7/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:35.121] [Worker-Main-7/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:35.157] [Worker-Main-17/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:35.246] [Worker-Main-41/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:35.275] [Worker-Main-41/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:35.896] [Worker-Main-6/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:35.897] [Worker-Main-6/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:35.901] [Worker-Main-6/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:38.462] [Worker-Main-17/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:38.466] [Worker-Main-17/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:38.674] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:38.678] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:38.697] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=-541, y=84, z=1966}
+[24Jul2025 03:25:38.732] [Worker-Main-15/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:38.737] [Worker-Main-15/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:38.768] [Worker-Main-40/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:38.824] [Worker-Main-40/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:40.112] [Worker-Main-37/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:40.117] [Worker-Main-37/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:40.117] [Worker-Main-37/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:40.167] [Worker-Main-20/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:40.222] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:40.317] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:40.318] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:40.389] [Worker-Main-20/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:40.540] [Worker-Main-43/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:40.632] [Worker-Main-42/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:40.757] [Worker-Main-41/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:42.901] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:42.928] [Worker-Main-6/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:42.929] [Worker-Main-6/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:42.959] [Worker-Main-23/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:42.961] [Worker-Main-23/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:43.000] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:43.012] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:43.016] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:43.020] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:43.068] [Worker-Main-14/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:43.122] [Worker-Main-5/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:43.209] [Worker-Main-14/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:43.230] [Worker-Main-14/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:43.230] [Worker-Main-14/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:43.272] [Worker-Main-37/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:43.304] [Worker-Main-8/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:43.326] [Worker-Main-8/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:43.427] [Worker-Main-19/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:45.526] [Worker-Main-38/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:45.526] [Worker-Main-38/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:45.570] [Worker-Main-40/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:45.570] [Worker-Main-40/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:45.651] [Worker-Main-23/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:45.674] [Worker-Main-40/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:45.689] [Worker-Main-15/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:45.691] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=72, y=40, z=553}
+[24Jul2025 03:25:45.752] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=-572, y=72, z=1982}
+[24Jul2025 03:25:45.755] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2304ms or 46 ticks behind
+[24Jul2025 03:25:45.846] [Worker-Main-22/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:50.305] [Worker-Main-43/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:50.374] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=82, y=45, z=544}
+[24Jul2025 03:25:50.374] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=82, y=40, z=545}
+[24Jul2025 03:25:50.376] [Worker-Main-14/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:50.376] [Worker-Main-14/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:50.377] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=78, y=40, z=556}
+[24Jul2025 03:25:50.377] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=79, y=40, z=555}
+[24Jul2025 03:25:50.378] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=81, y=40, z=555}
+[24Jul2025 03:25:50.378] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=83, y=45, z=555}
+[24Jul2025 03:25:50.404] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:50.455] [Worker-Main-20/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:50.491] [Worker-Main-23/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=82, y=45, z=544}
+[24Jul2025 03:25:50.491] [Worker-Main-23/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=82, y=40, z=545}
+[24Jul2025 03:25:57.154] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=78, y=40, z=556}
+[24Jul2025 03:25:57.155] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=79, y=40, z=555}
+[24Jul2025 03:25:57.155] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=72, y=40, z=553}
+[24Jul2025 03:25:57.155] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=81, y=40, z=555}
+[24Jul2025 03:25:57.155] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=83, y=45, z=555}
+[24Jul2025 03:25:57.229] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=78, y=40, z=556}
+[24Jul2025 03:25:57.229] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=79, y=40, z=555}
+[24Jul2025 03:25:57.229] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=81, y=40, z=555}
+[24Jul2025 03:25:57.230] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=83, y=45, z=555}
+[24Jul2025 03:25:57.231] [Worker-Main-7/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:25:57.284] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=82, y=45, z=544}
+[24Jul2025 03:25:57.284] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=82, y=40, z=545}
+[24Jul2025 03:26:09.443] [Worker-Main-14/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:26:09.735] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:26:09.735] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:26:09.784] [Worker-Main-37/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=72, y=40, z=553}
+[24Jul2025 03:26:09.787] [Worker-Main-37/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:26:09.843] [Worker-Main-36/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:26:12.499] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-579, y=136, z=2011} but found not block entity block Block{minecraft:air} at location
+[24Jul2025 03:26:12.499] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-579, y=136, z=2011}
+[24Jul2025 03:26:12.499] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-579, y=135, z=2011} but found not block entity block Block{minecraft:air} at location
+[24Jul2025 03:26:12.499] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-579, y=135, z=2011}
+[24Jul2025 03:26:12.500] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-579, y=137, z=2011} but found not block entity block Block{minecraft:air} at location
+[24Jul2025 03:26:12.500] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-579, y=137, z=2011}
+[24Jul2025 03:28:21.887] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Andrew_50G lost connection: Timed out
+[24Jul2025 03:28:21.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrew_50G left the game
+[24Jul2025 03:28:21.888] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e2fb7a3a-51c5-3c5d-8d8d-df4e1427bb07 was unloaded
+[24Jul2025 03:28:21.936] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24Jul2025 03:28:49.502] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Andrew_50G[/10.147.17.22:51480] logged in with entity id 401438 at (-534.4126514179986, 123.0, 1808.9604588938275)
+[24Jul2025 03:28:49.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Andrew_50G joined the game
+[24Jul2025 03:28:49.554] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Andrew_50G
+[24Jul2025 03:28:49.976] [Netty Epoll Server IO #2/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Andrew_50G
+[24Jul2025 03:28:50.637] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e2fb7a3a-51c5-3c5d-8d8d-df4e1427bb07 was loaded
+[24Jul2025 03:28:50.637] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Andrew_50G]
+[24Jul2025 03:28:50.637] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Andrew_50G]
+[24Jul2025 03:29:21.681] [Worker-Main-40/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:29:21.681] [Worker-Main-40/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:29:21.966] [Worker-Main-14/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:29:22.037] [Worker-Main-40/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:29:22.037] [Worker-Main-40/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:29:22.896] [Worker-Main-22/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:29:23.759] [Worker-Main-42/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:29:24.658] [Worker-Main-41/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:29:24.659] [Worker-Main-41/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:29:24.769] [Worker-Main-22/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:29:24.833] [Worker-Main-40/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:29:26.545] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2144ms or 42 ticks behind
+[24Jul2025 03:29:26.953] [Worker-Main-23/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:29:27.001] [Worker-Main-42/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:29:29.948] [Worker-Main-40/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:29:44.282] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2781ms or 55 ticks behind
+[24Jul2025 03:30:17.570] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:30:17.570] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:30:17.571] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id zombieawareness:scent
+[24Jul2025 03:30:19.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Andrew_50G: Set own game mode to Spectator Mode]
+[24Jul2025 03:31:13.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Andrew_50G: Set own game mode to Survival Mode]

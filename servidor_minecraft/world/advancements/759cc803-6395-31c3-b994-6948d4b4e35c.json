@@ -3850,15 +3850,345 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-07-20 03:51:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-07-20 03:51:52 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/mushroom_rice": {
     "criteria": {
       "has_any_ingredient": "2025-07-20 04:14:09 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-07-20 04:14:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-20 04:14:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-07-20 04:14:09 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/food/mushroom_stew_from_coconut_husk": {
+    "criteria": {
+      "has_red_mushroom": "2025-07-20 04:14:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-20 04:14:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-20 04:14:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-07-20 04:14:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-07-20 04:14:58 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/moss_clump": {
+    "criteria": {
+      "has_copper_block": "2025-07-20 04:14:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-20 04:14:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-07-20 04:14:58 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/surface_moss": {
+    "criteria": {
+      "has_moss_block": "2025-07-20 04:14:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-20 04:14:58 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/moss_block": {
+    "criteria": {
+      "has_copper_block": "2025-07-20 04:14:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-07-20 04:14:58 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-07-20 04:17:13 +0000"
+    },
+    "done": false
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-07-20 04:17:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-07-20 04:17:16 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-07-20 04:17:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2025-07-20 04:20:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-20 04:23:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-20 04:23:25 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/mossy_cobblestone_layer": {
+    "criteria": {
+      "has_block": "2025-07-20 04:23:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-20 04:23:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-20 04:23:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-20 04:23:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-20 04:23:25 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-07-20 04:23:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-07-20 04:23:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-07-20 04:23:27 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/rope": {
+    "criteria": {
+      "has_string": "2025-07-20 04:23:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-07-20 04:23:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-07-20 04:23:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-07-20 04:23:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-07-20 04:23:27 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/oak_beam": {
+    "criteria": {
+      "has_log": "2025-07-20 04:29:10 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/oak_wall": {
+    "criteria": {
+      "has_logs": "2025-07-20 04:29:10 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/oak_pallet": {
+    "criteria": {
+      "has_planks": "2025-07-20 04:29:10 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/oak_frame": {
+    "criteria": {
+      "has_log": "2025-07-20 04:29:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-07-20 04:29:10 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/oak_palisade": {
+    "criteria": {
+      "has_log": "2025-07-20 04:29:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-07-20 04:29:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sc_manual": {
+    "criteria": {
+      "has_wood": "2025-07-20 04:29:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-20 04:29:10 +0000"
+    },
+    "done": true
+  },
   "bloomingnature:recipes/swamp_oak_wood": {
     "criteria": {
       "has_swamp_oak_log": "2025-07-20 04:29:12 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_planks": {
+    "criteria": {
+      "has_swamp_oak_log": "2025-07-20 04:29:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-07-20 04:29:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-07-20 04:32:53 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/cherry_wall": {
+    "criteria": {
+      "has_logs": "2025-07-20 04:32:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-07-20 04:32:53 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/cherry_pallet": {
+    "criteria": {
+      "has_planks": "2025-07-20 04:32:53 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/cherry_beam": {
+    "criteria": {
+      "has_log": "2025-07-20 04:32:53 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/cherry_frame": {
+    "criteria": {
+      "has_planks": "2025-07-20 04:32:53 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/cherry_palisade": {
+    "criteria": {
+      "has_log": "2025-07-20 04:32:53 +0000"
     },
     "done": true
   },
@@ -3874,54 +4204,6 @@
     },
     "done": true
   },
-  "bloomingnature:recipes/chestnut_fence": {
-    "criteria": {
-      "has_chestnut_planks": "2025-07-20 04:57:21 +0000"
-    },
-    "done": true
-  },
-  "bbb:recipes/oak_beam": {
-    "criteria": {
-      "has_log": "2025-07-20 04:29:10 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/chicken_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-20 04:44:52 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/swamp_oak_trapdoor": {
-    "criteria": {
-      "has_swamp_oak_planks": "2025-07-20 04:42:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-07-20 04:23:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_planks": {
-    "criteria": {
-      "has_log": "2025-07-20 04:32:53 +0000"
-    },
-    "done": true
-  },
-  "bbb:recipes/oak_wall": {
-    "criteria": {
-      "has_logs": "2025-07-20 04:29:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tripwire_hook": {
-    "criteria": {
-      "has_string": "2025-07-20 04:23:27 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/secret_dark_oak_sign_item": {
     "criteria": {
       "has_sign": "2025-07-20 04:40:09 +0000"
@@ -3934,75 +4216,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/candle": {
-    "criteria": {
-      "has_string": "2025-07-20 04:23:27 +0000"
-    },
-    "done": true
-  },
-  "bbb:recipes/oak_pallet": {
-    "criteria": {
-      "has_planks": "2025-07-20 04:29:10 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/apple_cider": {
-    "criteria": {
-      "has_apple": "2025-07-20 04:29:26 +0000"
-    },
-    "done": true
-  },
-  "bbb:recipes/oak_frame": {
-    "criteria": {
-      "has_log": "2025-07-20 04:29:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-07-20 04:23:25 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/swamp_oak_planks": {
-    "criteria": {
-      "has_swamp_oak_log": "2025-07-20 04:29:12 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
-    "criteria": {
-      "has_moss": "2025-07-20 04:14:58 +0000"
-    },
-    "done": true
-  },
-  "bbb:recipes/mossy_cobblestone_layer": {
-    "criteria": {
-      "has_block": "2025-07-20 04:23:25 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/chestnut_button": {
-    "criteria": {
-      "has_chestnut_planks": "2025-07-20 04:57:21 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/chestnut_window": {
-    "criteria": {
-      "has_chestnut_planks": "2025-07-20 04:57:21 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/secret_jungle_hanging_sign": {
     "criteria": {
       "has_sign": "2025-07-20 04:40:09 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2025-07-20 04:59:39 +0000"
     },
     "done": true
   },
@@ -4012,39 +4228,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/slime_block": {
-    "criteria": {
-      "has_slime_ball": "2025-07-20 04:59:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_logs": "2025-07-20 04:29:10 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/white_dye_from_lily_of_the_valley": {
-    "criteria": {
-      "has_lily_of_the_valley": "2025-07-20 03:51:52 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/swamp_oak_button": {
-    "criteria": {
-      "has_swamp_oak_planks": "2025-07-20 04:42:10 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/secret_crimson_sign_item": {
     "criteria": {
       "has_sign": "2025-07-20 04:40:09 +0000"
-    },
-    "done": true
-  },
-  "bbb:recipes/rope": {
-    "criteria": {
-      "has_string": "2025-07-20 04:23:27 +0000"
     },
     "done": true
   },
@@ -4054,99 +4240,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/bow": {
-    "criteria": {
-      "has_string": "2025-07-20 04:23:27 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/secret_spruce_hanging_sign": {
     "criteria": {
       "has_sign": "2025-07-20 04:40:09 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/swamp_oak_fence": {
-    "criteria": {
-      "has_swamp_oak_planks": "2025-07-20 04:42:10 +0000"
-    },
-    "done": true
-  },
-  "bbb:recipes/cherry_wall": {
-    "criteria": {
-      "has_logs": "2025-07-20 04:32:53 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/swamp_oak_fence_gate": {
-    "criteria": {
-      "has_swamp_oak_planks": "2025-07-20 04:42:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_wood": {
-    "criteria": {
-      "has_log": "2025-07-20 04:32:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/lead": {
-    "criteria": {
-      "has_slime_ball": "2025-07-20 04:59:39 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/swamp_oak_window": {
-    "criteria": {
-      "has_swamp_oak_planks": "2025-07-20 04:42:10 +0000"
-    },
-    "done": true
-  },
-  "immersive_weathering:recipes/moss_clump": {
-    "criteria": {
-      "has_copper_block": "2025-07-20 04:14:58 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/swamp_oak_sign": {
-    "criteria": {
-      "has_swamp_oak_planks": "2025-07-20 04:42:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
-    "criteria": {
-      "has_lily_of_the_valley": "2025-07-20 03:51:52 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/bone_crusher": {
-    "criteria": {
-      "coded_trigger": "2025-07-20 04:17:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-07-20 04:23:25 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/chestnut_fence_gate": {
-    "criteria": {
-      "has_chestnut_planks": "2025-07-20 04:57:21 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/chestnut_boat": {
-    "criteria": {
-      "has_chestnut_planks": "2025-07-20 04:57:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_red_mushroom": "2025-07-20 04:14:09 +0000"
     },
     "done": true
   },
@@ -4156,75 +4252,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-07-20 04:23:25 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/vegetable_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-20 04:44:52 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/swamp_oak_door": {
-    "criteria": {
-      "has_swamp_oak_planks": "2025-07-20 04:42:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-07-20 04:14:58 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/swamp_oak_chest_boat": {
-    "criteria": {
-      "has_swamp_oak_planks": "2025-07-20 04:42:10 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/building_blocks/oak_palisade": {
-    "criteria": {
-      "has_log": "2025-07-20 04:29:10 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/mushroom_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-20 04:14:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs": {
-    "criteria": {
-      "has_stone_bricks": "2025-07-20 04:14:57 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/swamp_oak_slab": {
-    "criteria": {
-      "has_swamp_oak_planks": "2025-07-20 04:42:10 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_fd_seed": {
-    "criteria": {
-      "rice": "2025-07-20 04:44:53 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/secret_sign_item": {
     "criteria": {
       "has_sign": "2025-07-20 04:40:09 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/cancel_ghostly_shape": {
-    "criteria": {
-      "coded_trigger": "2025-07-20 04:23:26 +0000"
     },
     "done": true
   },
@@ -4246,135 +4276,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-07-20 04:23:25 +0000"
-    },
-    "done": true
-  },
-  "lootr:social": {
-    "criteria": {
-      "opened_chest": "2025-07-20 04:17:13 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2025-07-20 04:29:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab": {
-    "criteria": {
-      "has_stone_bricks": "2025-07-20 04:14:57 +0000"
-    },
-    "done": true
-  },
-  "bbb:recipes/cherry_pallet": {
-    "criteria": {
-      "has_planks": "2025-07-20 04:32:53 +0000"
-    },
-    "done": true
-  },
-  "bbb:recipes/cherry_beam": {
-    "criteria": {
-      "has_log": "2025-07-20 04:32:53 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/swamp_oak_stairs": {
-    "criteria": {
-      "has_swamp_oak_planks": "2025-07-20 04:42:10 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/chestnut_slab": {
-    "criteria": {
-      "has_chestnut_planks": "2025-07-20 04:57:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-07-20 04:23:25 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
-    "criteria": {
-      "has_moss": "2025-07-20 04:14:58 +0000"
-    },
-    "done": true
-  },
-  "bbb:recipes/cherry_frame": {
-    "criteria": {
-      "has_planks": "2025-07-20 04:32:53 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/chestnut_hanging_sign": {
-    "criteria": {
-      "has_chestnut_planks": "2025-07-20 04:57:21 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/sc_manual": {
-    "criteria": {
-      "has_wood": "2025-07-20 04:29:10 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/phantom_trophy": {
-    "criteria": {
-      "has_phantom_trophy": "2025-07-20 04:20:28 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/chestnut_stairs": {
-    "criteria": {
-      "has_chestnut_planks": "2025-07-20 04:57:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_wood": {
-    "criteria": {
-      "has_log": "2025-07-20 04:29:10 +0000"
-    },
-    "done": true
-  },
-  "lootr:1chest": {
-    "criteria": {
-      "opened_chest": "2025-07-20 04:17:13 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/building_blocks/cherry_palisade": {
-    "criteria": {
-      "has_log": "2025-07-20 04:32:53 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/chestnut_sign": {
-    "criteria": {
-      "has_chestnut_planks": "2025-07-20 04:57:21 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/secret_jungle_sign_item": {
     "criteria": {
       "has_sign": "2025-07-20 04:40:09 +0000"
-    },
-    "done": true
-  },
-  "ecologics:recipes/ecologics/surface_moss": {
-    "criteria": {
-      "has_moss_block": "2025-07-20 04:14:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_red_mushroom": "2025-07-20 04:14:09 +0000"
     },
     "done": true
   },
@@ -4384,69 +4288,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/vegetable_noodles": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-20 04:44:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/fishing_rod": {
-    "criteria": {
-      "has_string": "2025-07-20 04:23:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
-    "criteria": {
-      "has_tag": "2025-07-20 04:14:57 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/secret_mangrove_hanging_sign": {
     "criteria": {
       "has_sign": "2025-07-20 04:40:09 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/swamp_oak_boat": {
-    "criteria": {
-      "has_swamp_oak_planks": "2025-07-20 04:42:10 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/chestnut_chest_boat": {
-    "criteria": {
-      "has_chestnut_planks": "2025-07-20 04:57:21 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/cooked_rice": {
-    "criteria": {
-      "has_rice": "2025-07-20 04:44:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-07-20 04:14:58 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/fried_rice": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-20 04:44:52 +0000"
-    },
-    "done": true
-  },
-  "immersive_weathering:recipes/moss_block": {
-    "criteria": {
-      "has_copper_block": "2025-07-20 04:14:58 +0000"
-    },
-    "done": true
-  },
-  "bloomingnature:recipes/chestnut_door": {
-    "criteria": {
-      "has_chestnut_planks": "2025-07-20 04:57:21 +0000"
     },
     "done": true
   },
@@ -4456,33 +4300,9 @@
     },
     "done": true
   },
-  "bloomingnature:recipes/swamp_oak_hanging_sign": {
-    "criteria": {
-      "has_swamp_oak_planks": "2025-07-20 04:42:10 +0000"
-    },
-    "done": true
-  },
-  "ecologics:recipes/food/mushroom_stew_from_coconut_husk": {
-    "criteria": {
-      "has_red_mushroom": "2025-07-20 04:14:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2025-07-20 04:59:39 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/secret_bamboo_sign_item": {
     "criteria": {
       "has_sign": "2025-07-20 04:40:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-07-20 04:44:52 +0000"
     },
     "done": true
   },
@@ -4498,9 +4318,123 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/white_wool_from_string": {
+  "securitycraft:recipes/decorations/secret_acacia_sign_item": {
     "criteria": {
-      "has_string": "2025-07-20 04:23:27 +0000"
+      "has_sign": "2025-07-20 04:40:09 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_trapdoor": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-07-20 04:42:10 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_button": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-07-20 04:42:10 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_fence": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-07-20 04:42:10 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_fence_gate": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-07-20 04:42:10 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_window": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-07-20 04:42:10 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_sign": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-07-20 04:42:10 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_door": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-07-20 04:42:10 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_chest_boat": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-07-20 04:42:10 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_slab": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-07-20 04:42:10 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_stairs": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-07-20 04:42:10 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_boat": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-07-20 04:42:10 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/swamp_oak_hanging_sign": {
+    "criteria": {
+      "has_swamp_oak_planks": "2025-07-20 04:42:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-20 04:44:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-20 04:44:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-20 04:44:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-20 04:44:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-07-20 04:44:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2025-07-20 04:44:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-07-20 04:44:53 +0000"
     },
     "done": true
   },
@@ -4510,21 +4444,69 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/moss_carpet": {
+  "bloomingnature:recipes/chestnut_fence": {
     "criteria": {
-      "has_moss_block": "2025-07-20 04:14:58 +0000"
+      "has_chestnut_planks": "2025-07-20 04:57:21 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/decorations/secret_acacia_sign_item": {
+  "bloomingnature:recipes/chestnut_button": {
     "criteria": {
-      "has_sign": "2025-07-20 04:40:09 +0000"
+      "has_chestnut_planks": "2025-07-20 04:57:21 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/tools/universal_owner_changer": {
+  "bloomingnature:recipes/chestnut_window": {
     "criteria": {
-      "has_name_tag": "2025-07-20 04:17:16 +0000"
+      "has_chestnut_planks": "2025-07-20 04:57:21 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_fence_gate": {
+    "criteria": {
+      "has_chestnut_planks": "2025-07-20 04:57:21 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_boat": {
+    "criteria": {
+      "has_chestnut_planks": "2025-07-20 04:57:21 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_slab": {
+    "criteria": {
+      "has_chestnut_planks": "2025-07-20 04:57:21 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_hanging_sign": {
+    "criteria": {
+      "has_chestnut_planks": "2025-07-20 04:57:21 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_stairs": {
+    "criteria": {
+      "has_chestnut_planks": "2025-07-20 04:57:21 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_sign": {
+    "criteria": {
+      "has_chestnut_planks": "2025-07-20 04:57:21 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_chest_boat": {
+    "criteria": {
+      "has_chestnut_planks": "2025-07-20 04:57:21 +0000"
+    },
+    "done": true
+  },
+  "bloomingnature:recipes/chestnut_door": {
+    "criteria": {
+      "has_chestnut_planks": "2025-07-20 04:57:21 +0000"
     },
     "done": true
   },
@@ -4534,9 +4516,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/loom": {
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
     "criteria": {
-      "has_string": "2025-07-20 04:23:27 +0000"
+      "has_slime_ball": "2025-07-20 04:59:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-07-20 04:59:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-07-20 04:59:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-07-20 04:59:39 +0000"
     },
     "done": true
   },
