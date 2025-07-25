@@ -1538,3 +1538,12 @@ java.lang.RuntimeException: Attempted to load class com/keerdm/binocularsmod/cli
 [25Jul2025 04:13:50.759] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [25Jul2025 04:13:50.895] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [N30NP1X3l]
 [25Jul2025 04:13:50.895] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [N30NP1X3l]
+[25Jul2025 04:18:04.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N30NP1X3l burned to death
+[25Jul2025 04:18:04.989] [Server thread/INFO] [tombstone/]: The player N30NP1X3l has successfully been saved
+[25Jul2025 04:18:07.088] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[25Jul2025 04:18:07.242] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [N30NP1X3l]
+[25Jul2025 04:18:07.242] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [N30NP1X3l]
+[25Jul2025 04:25:16.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Andrew_50G: Set own game mode to Creative Mode]
+[25Jul2025 04:25:19.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Andrew_50G: Set own game mode to Spectator Mode]
+[25Jul2025 04:25:30.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Andrew_50G: Set own game mode to Creative Mode]
+[25Jul2025 04:25:34.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Andrew_50G: Set own game mode to Survival Mode]
