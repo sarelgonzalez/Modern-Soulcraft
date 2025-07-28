@@ -68,5 +68,3 @@ Loading immunity item list hordes:immunity_items
 Loaded immunity item cure:vaccine with duration 350
 Loading wearables protection list
 Loading wearables protection list hordes:immune_wearables
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 30
-Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 30
